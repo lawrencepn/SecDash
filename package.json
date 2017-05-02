@@ -17,8 +17,6 @@
     "protractor": "^4.0.9"
   },
   "scripts": {
-    "postinstall": "bower install",
-
     "prestart": "npm install",
     "start": "http-server -c-1 ./app",
 
