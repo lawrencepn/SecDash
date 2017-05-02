@@ -1,0 +1,1430 @@
+<svg version="1.1" x="0" y="0" id="j26388kr2" diagram-revision="6" width="830" height="505" xmlns="http://www.w3.org/2000/svg" xmlns:xml="http://www.w3.org/XML/1998/namespace" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs/>
+  <g id="Square-j26388kr-ko145" transform="translate(5,5)">
+    <desc>root/abstractShapes/square?version=4&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(9.111666679382324,5.5)">
+      <rect vector-effect="non-scaling-stroke" x="0" y="0" fill="#ffffff" stroke="#ffffff" width="90" height="90" style="stroke:#ffffff;fill:#ffffff;stroke-width:0.5;" stroke-width="0.5"/>
+    </g>
+  </g>
+  <g id="j26388kr-ko140" transform="translate(720.05,70)">
+    <desc>root/abstractShapes/square?version=4&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(0.8333334922790527,2.8333334922790527)">
+      <rect vector-effect="non-scaling-stroke" x="0" y="0" fill="#fed4a9" stroke="#3298da" width="90" height="90" style="stroke:#3298da;fill:#fed4a9;stroke-width:0.5;" stroke-width="0.5"/>
+    </g>
+  </g>
+  <g id="j26388kr-ko136" transform="translate(500.05,50.049999999999955)">
+    <desc>root/abstractShapes/square?version=4&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(1.7227782011032104,4.610555648803711)">
+      <rect vector-effect="non-scaling-stroke" x="0" y="0" fill="#f5999d" stroke="#3298da" width="90" height="90" style="stroke:#3298da;fill:#f5999d;stroke-width:0.5;" stroke-width="0.5"/>
+    </g>
+  </g>
+  <g id="j26388kr-ko134" transform="translate(540.05,70)">
+    <desc>root/abstractShapes/square?version=4&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(0.8333334922790527,2.8333334922790527)">
+      <rect vector-effect="non-scaling-stroke" x="0" y="0" fill="#fed4a9" stroke="#3298da" width="90" height="90" style="stroke:#3298da;fill:#fed4a9;stroke-width:0.5;" stroke-width="0.5"/>
+    </g>
+  </g>
+  <g id="j26388kr-ko128" transform="translate(355.05,70)">
+    <desc>root/abstractShapes/square?version=4&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(0.8333334922790527,2.8333334922790527)">
+      <rect vector-effect="non-scaling-stroke" x="0" y="0" fill="#fed4a9" stroke="#3298da" width="90" height="90" style="stroke:#3298da;fill:#fed4a9;stroke-width:0.5;" stroke-width="0.5"/>
+    </g>
+  </g>
+  <g id="j26388kr-ko124" transform="translate(275.2,70)">
+    <desc>root/abstractShapes/square?version=4&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(0.8333334922790527,2.8333334922790527)">
+      <rect vector-effect="non-scaling-stroke" x="0" y="0" fill="#fed4a9" stroke="#3298da" width="90" height="90" style="stroke:#3298da;fill:#fed4a9;stroke-width:0.5;" stroke-width="0.5"/>
+    </g>
+  </g>
+  <g id="Square-j26388kr-ko122" transform="translate(195.00000000000006,70)">
+    <desc>root/abstractShapes/square?version=4&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(0.8338890671730042,2.8333334922790527)">
+      <rect vector-effect="non-scaling-stroke" x="0" y="0" fill="#fed4a9" stroke="#3298da" width="90" height="90" style="stroke:#3298da;fill:#fed4a9;stroke-width:0.5;" stroke-width="0.5"/>
+    </g>
+  </g>
+  <g id="Globe-j26388kr-ko63" transform="translate(35.05000000000001,165)">
+    <desc>root/network/globe?version=1&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(0.6315789222717285,0.6315789818763733)">
+      <g>
+        <circle fill="#3085AA" cx="47.5" cy="47.5" r="47.5"/>
+        <path fill="#9CAE38" d="M88.3,68.6c-0.3,1.7-3.5,7.9-3.6,8.3C91,68.7,95,58.6,95,47.3C95,33,88.6,20,78.4,11.2&#xD;&#xA;&#x9;&#x9;c-0.5,0.3-1.6,0.3-3.1-0.3c-3.5-1.6-7.4-2.1-7.9-1.6C66.8,10,66.8,12.3,70,13s2.4,4,4.7,3.3c2.2-0.5,2.8-2.2,2.8-2.2&#xD;&#xA;&#x9;&#x9;s4.3,3.1,0.7,3.6c-3.6,0.5-7.9,0.2-11.1-2.6c-2.9-2.8-7.4-4.1-10.7-3.6c-2.6,1-7.9,3.8-4.8,5.9c-0.7,0-1.6,0.2-2.2,0.5&#xD;&#xA;&#x9;&#x9;c-5.5,2.2-9.2,1.4-11.1,4.5c-1.9,3.1-4.8,7.8-3.3,10c1.6,2.2,3.8,7.1,4,8.5c0.2,1.4,1.2,3.1,5.5,1.4c4.1-1.7,7.8,4.3,6.4,7.1&#xD;&#xA;&#x9;&#x9;c-1.6,2.8-1.9,8.5-2.2,10c-0.3,1.6-6,1.6-5.9,5.9c0.2,4.3-1.7,8.6-1.2,11.1c0.5,2.2,3.1,4.8,8.3,2.8c5.2-2.1,7.1-3.6,9.3-4.8&#xD;&#xA;&#x9;&#x9;c2.1-1.2,4.7,0.9,5.5-1c0.9-1.9,1.4-6,4.3-6.4c2.9-0.3,5.7-3.6,8.5-3.6c2.8,0,6.9-2.1,4.5-3.3c-2.2-1.2-3.3-2.1-3.5-4&#xD;&#xA;&#x9;&#x9;c-0.2-1.7-0.3-8.5-0.3-8.5l0.3-4c0,0,2.2-3.3,2.6,1c0.3,4.3-0.9,12.3-0.3,12.6s7.4,2.1,7.4,0.2c0-1.9-3.1-6.4-2.9-8.1&#xD;&#xA;&#x9;&#x9;c0.2-1.7,1.6-3.5,2.9-1.6c1.6,1.9,0.7,5.2,1.2,6.4c0.3,1.2,1.9,2.4,1.2,5C89.5,61.3,88.6,66.8,88.3,68.6z M81,35.9&#xD;&#xA;&#x9;&#x9;c-0.9,1.2-3.6,3.3-5.2,0.7c-1.7-2.6-5-4-6.7-5c-1.7-0.9-3.1-2.1-3.3-4.1c-0.2-2.2-2.6-2.9-3.1-3.8c-0.3-0.5-2.8-3.1-5.9-4.8&#xD;&#xA;&#x9;&#x9;c4.1,0.3,4.7-2.1,6.6-0.5c2.2,1.7,3.6,6.9,7.9,6.2c4.3-0.7,5,0.2,4.1,1.6c-0.7,1.4,0.5,3.6,1.6,4C78.1,30.4,82,34.7,81,35.9z"/>
+        <circle fill="none" cx="47.5" cy="47.5" r="47.5"/>
+        <path fill="#9CAE38" d="M15.2,34.5C13.5,32.8,14,28,13.1,25c-0.9-2.8-4.5-0.5-8.1,1.7c-0.2,0-0.2,0.2-0.2,0.2&#xD;&#xA;&#x9;&#x9;c-0.7,1.4-1.4,2.9-1.9,4.3c0,1.9,0.5,3.8,0.3,5C2.9,38.3,6,37.5,6,37.5s-0.7,1.7-1.7,2.6c-0.7,0.5-2.2,1.4-4,2.4&#xD;&#xA;&#x9;&#x9;C0.2,44.2,0,45.9,0,47.7c0,2.4,0.2,4.7,0.5,7.1c0.9,1.6,1.7,2.8,2.4,3.1c1.9,1.6,3.1,6.6,3.3,7.6c0.2,0.9,3.5,9,4.7,12.3&#xD;&#xA;&#x9;&#x9;c0.2,0.3,0.5,0.5,0.7,0.9c0.2-0.9,0.3-2.8-0.9-5.2c-1.6-3.3,0.3-6.7,0.7-8.6c0.2-1.9,0.9-6.6,1.9-9.8s3.5-5.4,6-7.3&#xD;&#xA;&#x9;&#x9;c2.6-1.9,2.2-3.6,2.6-6.6C22.1,37.8,16.9,36.3,15.2,34.5z"/>
+        <circle fill="none" cx="47.5" cy="47.5" r="47.5"/>
+      </g>
+    </g>
+  </g>
+  <g id="Generic Server-j26388kr-ko65" transform="translate(215.05,90)">
+    <desc>root/network/devices/genericServer?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(0.8297872543334961,0.8333333730697632)">
+      <path fill="#1E3947" d="M41.6,100.2H3.4c-1.9,0-3.4-1.5-3.4-3.4V3.6c0-1.9,1.5-3.4,3.4-3.4h38.2c1.9,0,3.4,1.5,3.4,3.4v93.2&#xA;&#x9;C45,98.6,43.5,100.2,41.6,100.2z"/>
+      <rect x="0.1" y="8.2" fill="#DCE9F7" width="44.9" height="1.1"/>
+      <rect x="0.1" y="87.1" fill="#DCE9F7" width="44.2" height="1.1"/>
+      <rect x="0" y="64.1" fill="#1A6684" width="45" height="0.6"/>
+      <g>
+        <rect x="6.5" y="14.8" fill="#236A8E" width="32.2" height="3.9"/>
+        <rect x="6.5" y="19.7" fill="#236A8E" width="32.2" height="3.9"/>
+        <rect x="7.3" y="16.3" fill="#DCE9F7" width="5.8" height="1.2"/>
+        <rect x="7.3" y="21.1" fill="#DCE9F7" width="5.8" height="1.2"/>
+      </g>
+      <rect x="6.5" y="26" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="6.5" y="30.9" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="7.3" y="27.5" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <rect x="7.3" y="32.3" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <rect x="6.5" y="39.3" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="6.5" y="44.2" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="7.3" y="40.8" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <rect x="7.3" y="45.6" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <circle opacity="0.62" fill="#FF466A" cx="39.6" cy="93.1" r="1.7"/>
+      <circle opacity="0.62" fill="#43D190" cx="33.3" cy="93.1" r="1.7"/>
+      <g>
+        <rect x="4.1" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="3.4" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="6.9" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="6.2" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="9.6" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="8.9" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="12.4" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="11.7" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="15.1" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="14.4" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="17.9" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="17.2" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="20.7" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="19.9" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="23.4" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="22.7" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="26.2" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="25.5" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="28.9" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="28.2" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="31.7" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="31" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="34.5" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="33.7" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="37.2" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="36.5" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="40" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="39.3" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+    </g>
+  </g>
+  <g id="j26388kr-ko66" transform="translate(215.05,221.75)">
+    <desc>root/network/devices/genericServer?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(0.8297872543334961,0.8333333730697632)">
+      <path fill="#1E3947" d="M41.6,100.2H3.4c-1.9,0-3.4-1.5-3.4-3.4V3.6c0-1.9,1.5-3.4,3.4-3.4h38.2c1.9,0,3.4,1.5,3.4,3.4v93.2&#xA;&#x9;C45,98.6,43.5,100.2,41.6,100.2z"/>
+      <rect x="0.1" y="8.2" fill="#DCE9F7" width="44.9" height="1.1"/>
+      <rect x="0.1" y="87.1" fill="#DCE9F7" width="44.2" height="1.1"/>
+      <rect x="0" y="64.1" fill="#1A6684" width="45" height="0.6"/>
+      <g>
+        <rect x="6.5" y="14.8" fill="#236A8E" width="32.2" height="3.9"/>
+        <rect x="6.5" y="19.7" fill="#236A8E" width="32.2" height="3.9"/>
+        <rect x="7.3" y="16.3" fill="#DCE9F7" width="5.8" height="1.2"/>
+        <rect x="7.3" y="21.1" fill="#DCE9F7" width="5.8" height="1.2"/>
+      </g>
+      <rect x="6.5" y="26" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="6.5" y="30.9" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="7.3" y="27.5" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <rect x="7.3" y="32.3" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <rect x="6.5" y="39.3" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="6.5" y="44.2" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="7.3" y="40.8" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <rect x="7.3" y="45.6" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <circle opacity="0.62" fill="#FF466A" cx="39.6" cy="93.1" r="1.7"/>
+      <circle opacity="0.62" fill="#43D190" cx="33.3" cy="93.1" r="1.7"/>
+      <g>
+        <rect x="4.1" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="3.4" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="6.9" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="6.2" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="9.6" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="8.9" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="12.4" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="11.7" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="15.1" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="14.4" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="17.9" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="17.2" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="20.7" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="19.9" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="23.4" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="22.7" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="26.2" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="25.5" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="28.9" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="28.2" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="31.7" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="31" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="34.5" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="33.7" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="37.2" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="36.5" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="40" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="39.3" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+    </g>
+  </g>
+  <g id="j26388kr-ko68" transform="translate(293.8,90)">
+    <desc>root/network/devices/genericServer?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(0.8297872543334961,0.8333333730697632)">
+      <path fill="#1E3947" d="M41.6,100.2H3.4c-1.9,0-3.4-1.5-3.4-3.4V3.6c0-1.9,1.5-3.4,3.4-3.4h38.2c1.9,0,3.4,1.5,3.4,3.4v93.2&#xA;&#x9;C45,98.6,43.5,100.2,41.6,100.2z"/>
+      <rect x="0.1" y="8.2" fill="#DCE9F7" width="44.9" height="1.1"/>
+      <rect x="0.1" y="87.1" fill="#DCE9F7" width="44.2" height="1.1"/>
+      <rect x="0" y="64.1" fill="#1A6684" width="45" height="0.6"/>
+      <g>
+        <rect x="6.5" y="14.8" fill="#236A8E" width="32.2" height="3.9"/>
+        <rect x="6.5" y="19.7" fill="#236A8E" width="32.2" height="3.9"/>
+        <rect x="7.3" y="16.3" fill="#DCE9F7" width="5.8" height="1.2"/>
+        <rect x="7.3" y="21.1" fill="#DCE9F7" width="5.8" height="1.2"/>
+      </g>
+      <rect x="6.5" y="26" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="6.5" y="30.9" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="7.3" y="27.5" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <rect x="7.3" y="32.3" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <rect x="6.5" y="39.3" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="6.5" y="44.2" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="7.3" y="40.8" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <rect x="7.3" y="45.6" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <circle opacity="0.62" fill="#FF466A" cx="39.6" cy="93.1" r="1.7"/>
+      <circle opacity="0.62" fill="#43D190" cx="33.3" cy="93.1" r="1.7"/>
+      <g>
+        <rect x="4.1" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="3.4" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="6.9" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="6.2" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="9.6" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="8.9" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="12.4" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="11.7" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="15.1" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="14.4" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="17.9" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="17.2" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="20.7" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="19.9" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="23.4" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="22.7" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="26.2" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="25.5" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="28.9" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="28.2" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="31.7" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="31" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="34.5" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="33.7" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="37.2" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="36.5" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="40" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="39.3" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+    </g>
+  </g>
+  <g id="j26388kr-ko70" transform="translate(293.8,221.75)">
+    <desc>root/network/devices/genericServer?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(0.8297872543334961,0.8333333730697632)">
+      <path fill="#1E3947" d="M41.6,100.2H3.4c-1.9,0-3.4-1.5-3.4-3.4V3.6c0-1.9,1.5-3.4,3.4-3.4h38.2c1.9,0,3.4,1.5,3.4,3.4v93.2&#xA;&#x9;C45,98.6,43.5,100.2,41.6,100.2z"/>
+      <rect x="0.1" y="8.2" fill="#DCE9F7" width="44.9" height="1.1"/>
+      <rect x="0.1" y="87.1" fill="#DCE9F7" width="44.2" height="1.1"/>
+      <rect x="0" y="64.1" fill="#1A6684" width="45" height="0.6"/>
+      <g>
+        <rect x="6.5" y="14.8" fill="#236A8E" width="32.2" height="3.9"/>
+        <rect x="6.5" y="19.7" fill="#236A8E" width="32.2" height="3.9"/>
+        <rect x="7.3" y="16.3" fill="#DCE9F7" width="5.8" height="1.2"/>
+        <rect x="7.3" y="21.1" fill="#DCE9F7" width="5.8" height="1.2"/>
+      </g>
+      <rect x="6.5" y="26" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="6.5" y="30.9" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="7.3" y="27.5" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <rect x="7.3" y="32.3" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <rect x="6.5" y="39.3" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="6.5" y="44.2" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="7.3" y="40.8" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <rect x="7.3" y="45.6" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <circle opacity="0.62" fill="#FF466A" cx="39.6" cy="93.1" r="1.7"/>
+      <circle opacity="0.62" fill="#43D190" cx="33.3" cy="93.1" r="1.7"/>
+      <g>
+        <rect x="4.1" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="3.4" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="6.9" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="6.2" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="9.6" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="8.9" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="12.4" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="11.7" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="15.1" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="14.4" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="17.9" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="17.2" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="20.7" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="19.9" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="23.4" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="22.7" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="26.2" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="25.5" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="28.9" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="28.2" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="31.7" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="31" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="34.5" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="33.7" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="37.2" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="36.5" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="40" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="39.3" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+    </g>
+  </g>
+  <g id="j26388kr-ko88" transform="translate(372.8,90)">
+    <desc>root/network/devices/genericServer?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(0.8297872543334961,0.8333333730697632)">
+      <path fill="#1E3947" d="M41.6,100.2H3.4c-1.9,0-3.4-1.5-3.4-3.4V3.6c0-1.9,1.5-3.4,3.4-3.4h38.2c1.9,0,3.4,1.5,3.4,3.4v93.2&#xA;&#x9;C45,98.6,43.5,100.2,41.6,100.2z"/>
+      <rect x="0.1" y="8.2" fill="#DCE9F7" width="44.9" height="1.1"/>
+      <rect x="0.1" y="87.1" fill="#DCE9F7" width="44.2" height="1.1"/>
+      <rect x="0" y="64.1" fill="#1A6684" width="45" height="0.6"/>
+      <g>
+        <rect x="6.5" y="14.8" fill="#236A8E" width="32.2" height="3.9"/>
+        <rect x="6.5" y="19.7" fill="#236A8E" width="32.2" height="3.9"/>
+        <rect x="7.3" y="16.3" fill="#DCE9F7" width="5.8" height="1.2"/>
+        <rect x="7.3" y="21.1" fill="#DCE9F7" width="5.8" height="1.2"/>
+      </g>
+      <rect x="6.5" y="26" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="6.5" y="30.9" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="7.3" y="27.5" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <rect x="7.3" y="32.3" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <rect x="6.5" y="39.3" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="6.5" y="44.2" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="7.3" y="40.8" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <rect x="7.3" y="45.6" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <circle opacity="0.62" fill="#FF466A" cx="39.6" cy="93.1" r="1.7"/>
+      <circle opacity="0.62" fill="#43D190" cx="33.3" cy="93.1" r="1.7"/>
+      <g>
+        <rect x="4.1" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="3.4" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="6.9" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="6.2" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="9.6" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="8.9" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="12.4" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="11.7" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="15.1" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="14.4" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="17.9" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="17.2" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="20.7" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="19.9" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="23.4" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="22.7" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="26.2" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="25.5" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="28.9" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="28.2" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="31.7" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="31" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="34.5" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="33.7" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="37.2" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="36.5" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="40" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="39.3" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+    </g>
+  </g>
+  <g id="j26388kr-ko89" transform="translate(372.8,221.75)">
+    <desc>root/network/devices/genericServer?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(0.8297872543334961,0.8333333730697632)">
+      <path fill="#1E3947" d="M41.6,100.2H3.4c-1.9,0-3.4-1.5-3.4-3.4V3.6c0-1.9,1.5-3.4,3.4-3.4h38.2c1.9,0,3.4,1.5,3.4,3.4v93.2&#xA;&#x9;C45,98.6,43.5,100.2,41.6,100.2z"/>
+      <rect x="0.1" y="8.2" fill="#DCE9F7" width="44.9" height="1.1"/>
+      <rect x="0.1" y="87.1" fill="#DCE9F7" width="44.2" height="1.1"/>
+      <rect x="0" y="64.1" fill="#1A6684" width="45" height="0.6"/>
+      <g>
+        <rect x="6.5" y="14.8" fill="#236A8E" width="32.2" height="3.9"/>
+        <rect x="6.5" y="19.7" fill="#236A8E" width="32.2" height="3.9"/>
+        <rect x="7.3" y="16.3" fill="#DCE9F7" width="5.8" height="1.2"/>
+        <rect x="7.3" y="21.1" fill="#DCE9F7" width="5.8" height="1.2"/>
+      </g>
+      <rect x="6.5" y="26" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="6.5" y="30.9" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="7.3" y="27.5" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <rect x="7.3" y="32.3" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <rect x="6.5" y="39.3" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="6.5" y="44.2" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="7.3" y="40.8" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <rect x="7.3" y="45.6" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <circle opacity="0.62" fill="#FF466A" cx="39.6" cy="93.1" r="1.7"/>
+      <circle opacity="0.62" fill="#43D190" cx="33.3" cy="93.1" r="1.7"/>
+      <g>
+        <rect x="4.1" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="3.4" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="6.9" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="6.2" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="9.6" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="8.9" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="12.4" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="11.7" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="15.1" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="14.4" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="17.9" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="17.2" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="20.7" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="19.9" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="23.4" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="22.7" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="26.2" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="25.5" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="28.9" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="28.2" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="31.7" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="31" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="34.5" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="33.7" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="37.2" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="36.5" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="40" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="39.3" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+    </g>
+  </g>
+  <g id="Firewall-j26388kr-ko92" transform="translate(130.05,165)">
+    <desc>root/network/cisco/abstract/misc/fireWall?version=1&amp;author=Cinergix</desc>
+    <g id="image">
+      <g>
+        <polyline fill="#007EBA" points="1.1,59.8 1.1,11.1 15.7,11.1 15.7,59.8 1.1,59.8 &#x9;"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_2_">
+              <use xlink:href="#SVGID_1_" overflow="visible"/>
+            </clipPath>
+            <polygon clip-path="url(#SVGID_2_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" points="1.1,59.8 1.1,11.1 15.7,11.1 &#xD;&#xA;&#x9;&#x9;&#x9;&#x9;15.7,59.8 &#x9;&#x9;&#x9;"/>
+          </g>
+        </g>
+        <polyline fill="#007EBA" points="15.7,11.1 1.1,11.1 14.2,0.8 26.9,0.8 15.7,11.1 &#x9;"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_4_">
+              <use xlink:href="#SVGID_3_" overflow="visible"/>
+            </clipPath>
+            <polygon clip-path="url(#SVGID_4_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" points="15.7,11.1 1.1,11.1 14.2,0.8 &#xD;&#xA;&#x9;&#x9;&#x9;&#x9;26.9,0.8 &#x9;&#x9;&#x9;"/>
+          </g>
+        </g>
+        <polyline fill="#007EBA" points="26.9,0.8 26.9,47.2 15.7,59.8 15.7,11.1 26.9,0.8 &#x9;"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_6_">
+              <use xlink:href="#SVGID_5_" overflow="visible"/>
+            </clipPath>
+            <polygon clip-path="url(#SVGID_6_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" points="26.9,0.8 26.9,47.2 15.7,59.8 &#xD;&#xA;&#x9;&#x9;&#x9;&#x9;15.7,11.1 &#x9;&#x9;&#x9;"/>
+          </g>
+        </g>
+        <line fill="none" x1="23.4" y1="11.7" x2="23.4" y2="3.9"/>
+        <line fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="23.4" y1="11.7" x2="23.4" y2="3.9"/>
+        <line fill="none" x1="23.4" y1="27.5" x2="23.4" y2="19.7"/>
+        <line fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="23.4" y1="27.5" x2="23.4" y2="19.7"/>
+        <line fill="none" x1="23.4" y1="43.3" x2="23.4" y2="35.5"/>
+        <line fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="23.4" y1="43.3" x2="23.4" y2="35.5"/>
+        <line fill="none" x1="26.9" y1="39.5" x2="15.7" y2="51.7"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_8_">
+              <use xlink:href="#SVGID_7_" overflow="visible"/>
+            </clipPath>
+            <line clip-path="url(#SVGID_8_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="26.9" y1="39.5" x2="15.7" y2="51.7"/>
+          </g>
+        </g>
+        <line fill="none" x1="26.9" y1="31.8" x2="15.7" y2="43.6"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_10_">
+              <use xlink:href="#SVGID_9_" overflow="visible"/>
+            </clipPath>
+            <line clip-path="url(#SVGID_10_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="26.9" y1="31.8" x2="15.7" y2="43.6"/>
+          </g>
+        </g>
+        <line fill="none" x1="26.9" y1="24" x2="15.7" y2="35.5"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_12_">
+              <use xlink:href="#SVGID_11_" overflow="visible"/>
+            </clipPath>
+            <line clip-path="url(#SVGID_12_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="26.9" y1="24" x2="15.7" y2="35.5"/>
+          </g>
+        </g>
+        <line fill="none" x1="26.9" y1="16.3" x2="15.7" y2="27.4"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_14_">
+              <use xlink:href="#SVGID_13_" overflow="visible"/>
+            </clipPath>
+            <line clip-path="url(#SVGID_14_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="26.9" y1="16.3" x2="15.7" y2="27.4"/>
+          </g>
+        </g>
+        <line fill="none" x1="26.9" y1="8.5" x2="15.7" y2="19.2"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_16_">
+              <use xlink:href="#SVGID_15_" overflow="visible"/>
+            </clipPath>
+            <line clip-path="url(#SVGID_16_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="26.9" y1="8.5" x2="15.7" y2="19.2"/>
+          </g>
+        </g>
+        <line fill="none" x1="15.7" y1="11.1" x2="26.9" y2="0.8"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_18_">
+              <use xlink:href="#SVGID_17_" overflow="visible"/>
+            </clipPath>
+            <line clip-path="url(#SVGID_18_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="15.7" y1="11.1" x2="26.9" y2="0.8"/>
+          </g>
+        </g>
+        <line fill="none" x1="15.7" y1="51.7" x2="1.1" y2="51.7"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_20_">
+              <use xlink:href="#SVGID_19_" overflow="visible"/>
+            </clipPath>
+            <line clip-path="url(#SVGID_20_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="15.7" y1="51.7" x2="1.1" y2="51.7"/>
+          </g>
+        </g>
+        <line fill="none" x1="15.7" y1="43.6" x2="1.1" y2="43.6"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_22_">
+              <use xlink:href="#SVGID_21_" overflow="visible"/>
+            </clipPath>
+            <line clip-path="url(#SVGID_22_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="15.7" y1="43.6" x2="1.1" y2="43.6"/>
+          </g>
+        </g>
+        <line fill="none" x1="15.7" y1="35.4" x2="1.1" y2="35.4"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_24_">
+              <use xlink:href="#SVGID_23_" overflow="visible"/>
+            </clipPath>
+            <line clip-path="url(#SVGID_24_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="15.7" y1="35.4" x2="1.1" y2="35.4"/>
+          </g>
+        </g>
+        <line fill="none" x1="15.7" y1="27.3" x2="1.1" y2="27.3"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_26_">
+              <use xlink:href="#SVGID_25_" overflow="visible"/>
+            </clipPath>
+            <line clip-path="url(#SVGID_26_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="15.7" y1="27.3" x2="1.1" y2="27.3"/>
+          </g>
+        </g>
+        <line fill="none" x1="15.7" y1="19.2" x2="1.1" y2="19.2"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_28_">
+              <use xlink:href="#SVGID_27_" overflow="visible"/>
+            </clipPath>
+            <line clip-path="url(#SVGID_28_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="15.7" y1="19.2" x2="1.1" y2="19.2"/>
+          </g>
+        </g>
+        <line fill="none" x1="19.5" y1="55.4" x2="19.5" y2="47.5"/>
+        <line fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="19.5" y1="55.4" x2="19.5" y2="47.5"/>
+        <line fill="none" x1="19.5" y1="39.3" x2="19.5" y2="31.5"/>
+        <line fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="19.5" y1="39.3" x2="19.5" y2="31.5"/>
+        <line fill="none" x1="19.5" y1="23.4" x2="19.5" y2="15.6"/>
+        <line fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="19.5" y1="23.4" x2="19.5" y2="15.6"/>
+      </g>
+    </g>
+  </g>
+  <g id="j26388kr-ko93" transform="translate(450.05,165)">
+    <desc>root/network/cisco/abstract/misc/fireWall?version=1&amp;author=Cinergix</desc>
+    <g id="image">
+      <g>
+        <polyline fill="#007EBA" points="1.1,59.8 1.1,11.1 15.7,11.1 15.7,59.8 1.1,59.8 &#x9;"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_2_">
+              <use xlink:href="#SVGID_1_" overflow="visible"/>
+            </clipPath>
+            <polygon clip-path="url(#SVGID_2_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" points="1.1,59.8 1.1,11.1 15.7,11.1 &#xD;&#xA;&#x9;&#x9;&#x9;&#x9;15.7,59.8 &#x9;&#x9;&#x9;"/>
+          </g>
+        </g>
+        <polyline fill="#007EBA" points="15.7,11.1 1.1,11.1 14.2,0.8 26.9,0.8 15.7,11.1 &#x9;"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_4_">
+              <use xlink:href="#SVGID_3_" overflow="visible"/>
+            </clipPath>
+            <polygon clip-path="url(#SVGID_4_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" points="15.7,11.1 1.1,11.1 14.2,0.8 &#xD;&#xA;&#x9;&#x9;&#x9;&#x9;26.9,0.8 &#x9;&#x9;&#x9;"/>
+          </g>
+        </g>
+        <polyline fill="#007EBA" points="26.9,0.8 26.9,47.2 15.7,59.8 15.7,11.1 26.9,0.8 &#x9;"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_6_">
+              <use xlink:href="#SVGID_5_" overflow="visible"/>
+            </clipPath>
+            <polygon clip-path="url(#SVGID_6_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" points="26.9,0.8 26.9,47.2 15.7,59.8 &#xD;&#xA;&#x9;&#x9;&#x9;&#x9;15.7,11.1 &#x9;&#x9;&#x9;"/>
+          </g>
+        </g>
+        <line fill="none" x1="23.4" y1="11.7" x2="23.4" y2="3.9"/>
+        <line fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="23.4" y1="11.7" x2="23.4" y2="3.9"/>
+        <line fill="none" x1="23.4" y1="27.5" x2="23.4" y2="19.7"/>
+        <line fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="23.4" y1="27.5" x2="23.4" y2="19.7"/>
+        <line fill="none" x1="23.4" y1="43.3" x2="23.4" y2="35.5"/>
+        <line fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="23.4" y1="43.3" x2="23.4" y2="35.5"/>
+        <line fill="none" x1="26.9" y1="39.5" x2="15.7" y2="51.7"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_8_">
+              <use xlink:href="#SVGID_7_" overflow="visible"/>
+            </clipPath>
+            <line clip-path="url(#SVGID_8_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="26.9" y1="39.5" x2="15.7" y2="51.7"/>
+          </g>
+        </g>
+        <line fill="none" x1="26.9" y1="31.8" x2="15.7" y2="43.6"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_10_">
+              <use xlink:href="#SVGID_9_" overflow="visible"/>
+            </clipPath>
+            <line clip-path="url(#SVGID_10_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="26.9" y1="31.8" x2="15.7" y2="43.6"/>
+          </g>
+        </g>
+        <line fill="none" x1="26.9" y1="24" x2="15.7" y2="35.5"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_12_">
+              <use xlink:href="#SVGID_11_" overflow="visible"/>
+            </clipPath>
+            <line clip-path="url(#SVGID_12_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="26.9" y1="24" x2="15.7" y2="35.5"/>
+          </g>
+        </g>
+        <line fill="none" x1="26.9" y1="16.3" x2="15.7" y2="27.4"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_14_">
+              <use xlink:href="#SVGID_13_" overflow="visible"/>
+            </clipPath>
+            <line clip-path="url(#SVGID_14_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="26.9" y1="16.3" x2="15.7" y2="27.4"/>
+          </g>
+        </g>
+        <line fill="none" x1="26.9" y1="8.5" x2="15.7" y2="19.2"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_16_">
+              <use xlink:href="#SVGID_15_" overflow="visible"/>
+            </clipPath>
+            <line clip-path="url(#SVGID_16_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="26.9" y1="8.5" x2="15.7" y2="19.2"/>
+          </g>
+        </g>
+        <line fill="none" x1="15.7" y1="11.1" x2="26.9" y2="0.8"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_18_">
+              <use xlink:href="#SVGID_17_" overflow="visible"/>
+            </clipPath>
+            <line clip-path="url(#SVGID_18_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="15.7" y1="11.1" x2="26.9" y2="0.8"/>
+          </g>
+        </g>
+        <line fill="none" x1="15.7" y1="51.7" x2="1.1" y2="51.7"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_20_">
+              <use xlink:href="#SVGID_19_" overflow="visible"/>
+            </clipPath>
+            <line clip-path="url(#SVGID_20_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="15.7" y1="51.7" x2="1.1" y2="51.7"/>
+          </g>
+        </g>
+        <line fill="none" x1="15.7" y1="43.6" x2="1.1" y2="43.6"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_22_">
+              <use xlink:href="#SVGID_21_" overflow="visible"/>
+            </clipPath>
+            <line clip-path="url(#SVGID_22_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="15.7" y1="43.6" x2="1.1" y2="43.6"/>
+          </g>
+        </g>
+        <line fill="none" x1="15.7" y1="35.4" x2="1.1" y2="35.4"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_24_">
+              <use xlink:href="#SVGID_23_" overflow="visible"/>
+            </clipPath>
+            <line clip-path="url(#SVGID_24_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="15.7" y1="35.4" x2="1.1" y2="35.4"/>
+          </g>
+        </g>
+        <line fill="none" x1="15.7" y1="27.3" x2="1.1" y2="27.3"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_26_">
+              <use xlink:href="#SVGID_25_" overflow="visible"/>
+            </clipPath>
+            <line clip-path="url(#SVGID_26_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="15.7" y1="27.3" x2="1.1" y2="27.3"/>
+          </g>
+        </g>
+        <line fill="none" x1="15.7" y1="19.2" x2="1.1" y2="19.2"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_28_">
+              <use xlink:href="#SVGID_27_" overflow="visible"/>
+            </clipPath>
+            <line clip-path="url(#SVGID_28_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="15.7" y1="19.2" x2="1.1" y2="19.2"/>
+          </g>
+        </g>
+        <line fill="none" x1="19.5" y1="55.4" x2="19.5" y2="47.5"/>
+        <line fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="19.5" y1="55.4" x2="19.5" y2="47.5"/>
+        <line fill="none" x1="19.5" y1="39.3" x2="19.5" y2="31.5"/>
+        <line fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="19.5" y1="39.3" x2="19.5" y2="31.5"/>
+        <line fill="none" x1="19.5" y1="23.4" x2="19.5" y2="15.6"/>
+        <line fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="19.5" y1="23.4" x2="19.5" y2="15.6"/>
+      </g>
+    </g>
+  </g>
+  <g id="j26388kr-ko95" transform="translate(680.05,165)">
+    <desc>root/network/cisco/abstract/misc/fireWall?version=1&amp;author=Cinergix</desc>
+    <g id="image">
+      <g>
+        <polyline fill="#007EBA" points="1.1,59.8 1.1,11.1 15.7,11.1 15.7,59.8 1.1,59.8 &#x9;"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_2_">
+              <use xlink:href="#SVGID_1_" overflow="visible"/>
+            </clipPath>
+            <polygon clip-path="url(#SVGID_2_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" points="1.1,59.8 1.1,11.1 15.7,11.1 &#xD;&#xA;&#x9;&#x9;&#x9;&#x9;15.7,59.8 &#x9;&#x9;&#x9;"/>
+          </g>
+        </g>
+        <polyline fill="#007EBA" points="15.7,11.1 1.1,11.1 14.2,0.8 26.9,0.8 15.7,11.1 &#x9;"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_4_">
+              <use xlink:href="#SVGID_3_" overflow="visible"/>
+            </clipPath>
+            <polygon clip-path="url(#SVGID_4_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" points="15.7,11.1 1.1,11.1 14.2,0.8 &#xD;&#xA;&#x9;&#x9;&#x9;&#x9;26.9,0.8 &#x9;&#x9;&#x9;"/>
+          </g>
+        </g>
+        <polyline fill="#007EBA" points="26.9,0.8 26.9,47.2 15.7,59.8 15.7,11.1 26.9,0.8 &#x9;"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_6_">
+              <use xlink:href="#SVGID_5_" overflow="visible"/>
+            </clipPath>
+            <polygon clip-path="url(#SVGID_6_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" points="26.9,0.8 26.9,47.2 15.7,59.8 &#xD;&#xA;&#x9;&#x9;&#x9;&#x9;15.7,11.1 &#x9;&#x9;&#x9;"/>
+          </g>
+        </g>
+        <line fill="none" x1="23.4" y1="11.7" x2="23.4" y2="3.9"/>
+        <line fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="23.4" y1="11.7" x2="23.4" y2="3.9"/>
+        <line fill="none" x1="23.4" y1="27.5" x2="23.4" y2="19.7"/>
+        <line fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="23.4" y1="27.5" x2="23.4" y2="19.7"/>
+        <line fill="none" x1="23.4" y1="43.3" x2="23.4" y2="35.5"/>
+        <line fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="23.4" y1="43.3" x2="23.4" y2="35.5"/>
+        <line fill="none" x1="26.9" y1="39.5" x2="15.7" y2="51.7"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_8_">
+              <use xlink:href="#SVGID_7_" overflow="visible"/>
+            </clipPath>
+            <line clip-path="url(#SVGID_8_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="26.9" y1="39.5" x2="15.7" y2="51.7"/>
+          </g>
+        </g>
+        <line fill="none" x1="26.9" y1="31.8" x2="15.7" y2="43.6"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_10_">
+              <use xlink:href="#SVGID_9_" overflow="visible"/>
+            </clipPath>
+            <line clip-path="url(#SVGID_10_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="26.9" y1="31.8" x2="15.7" y2="43.6"/>
+          </g>
+        </g>
+        <line fill="none" x1="26.9" y1="24" x2="15.7" y2="35.5"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_12_">
+              <use xlink:href="#SVGID_11_" overflow="visible"/>
+            </clipPath>
+            <line clip-path="url(#SVGID_12_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="26.9" y1="24" x2="15.7" y2="35.5"/>
+          </g>
+        </g>
+        <line fill="none" x1="26.9" y1="16.3" x2="15.7" y2="27.4"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_14_">
+              <use xlink:href="#SVGID_13_" overflow="visible"/>
+            </clipPath>
+            <line clip-path="url(#SVGID_14_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="26.9" y1="16.3" x2="15.7" y2="27.4"/>
+          </g>
+        </g>
+        <line fill="none" x1="26.9" y1="8.5" x2="15.7" y2="19.2"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_16_">
+              <use xlink:href="#SVGID_15_" overflow="visible"/>
+            </clipPath>
+            <line clip-path="url(#SVGID_16_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="26.9" y1="8.5" x2="15.7" y2="19.2"/>
+          </g>
+        </g>
+        <line fill="none" x1="15.7" y1="11.1" x2="26.9" y2="0.8"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_18_">
+              <use xlink:href="#SVGID_17_" overflow="visible"/>
+            </clipPath>
+            <line clip-path="url(#SVGID_18_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="15.7" y1="11.1" x2="26.9" y2="0.8"/>
+          </g>
+        </g>
+        <line fill="none" x1="15.7" y1="51.7" x2="1.1" y2="51.7"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_20_">
+              <use xlink:href="#SVGID_19_" overflow="visible"/>
+            </clipPath>
+            <line clip-path="url(#SVGID_20_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="15.7" y1="51.7" x2="1.1" y2="51.7"/>
+          </g>
+        </g>
+        <line fill="none" x1="15.7" y1="43.6" x2="1.1" y2="43.6"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_22_">
+              <use xlink:href="#SVGID_21_" overflow="visible"/>
+            </clipPath>
+            <line clip-path="url(#SVGID_22_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="15.7" y1="43.6" x2="1.1" y2="43.6"/>
+          </g>
+        </g>
+        <line fill="none" x1="15.7" y1="35.4" x2="1.1" y2="35.4"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_24_">
+              <use xlink:href="#SVGID_23_" overflow="visible"/>
+            </clipPath>
+            <line clip-path="url(#SVGID_24_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="15.7" y1="35.4" x2="1.1" y2="35.4"/>
+          </g>
+        </g>
+        <line fill="none" x1="15.7" y1="27.3" x2="1.1" y2="27.3"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_26_">
+              <use xlink:href="#SVGID_25_" overflow="visible"/>
+            </clipPath>
+            <line clip-path="url(#SVGID_26_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="15.7" y1="27.3" x2="1.1" y2="27.3"/>
+          </g>
+        </g>
+        <line fill="none" x1="15.7" y1="19.2" x2="1.1" y2="19.2"/>
+        <g>
+          <g>
+            <clipPath id="SVGID_28_">
+              <use xlink:href="#SVGID_27_" overflow="visible"/>
+            </clipPath>
+            <line clip-path="url(#SVGID_28_)" fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="15.7" y1="19.2" x2="1.1" y2="19.2"/>
+          </g>
+        </g>
+        <line fill="none" x1="19.5" y1="55.4" x2="19.5" y2="47.5"/>
+        <line fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="19.5" y1="55.4" x2="19.5" y2="47.5"/>
+        <line fill="none" x1="19.5" y1="39.3" x2="19.5" y2="31.5"/>
+        <line fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="19.5" y1="39.3" x2="19.5" y2="31.5"/>
+        <line fill="none" x1="19.5" y1="23.4" x2="19.5" y2="15.6"/>
+        <line fill="none" stroke="#FFFFFF" stroke-width="0.4" x1="19.5" y1="23.4" x2="19.5" y2="15.6"/>
+      </g>
+    </g>
+  </g>
+  <g id="Connector-j26388kr-ko97" transform="translate(-359.95,-480)">
+    <g id="graphics">
+      <path d="M 455 675 L 490 675 " fill="none" stroke="#a0a0a0" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="Connector-j26388kr-ko98" transform="translate(-359.95,-480)">
+    <g id="graphics">
+      <path d="M 520 675 L 546.3 675 L 546.3 610 L 575 610 " fill="none" stroke="#a0a0a0" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="Connector-j26388kr-ko99" transform="translate(-359.95,-480)">
+    <g id="graphics">
+      <path d="M 520 675 L 546.3 675 L 546.3 741.75 L 575 741.75 " fill="none" stroke="#a0a0a0" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="Connector-j26388kr-ko100" transform="translate(-359.95,-480)">
+    <g id="graphics">
+      <path d="M 610 610 L 653.75 610 " fill="none" stroke="#a0a0a0" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="Connector-j26388kr-ko101" transform="translate(-359.95,-480)">
+    <g id="graphics">
+      <path d="M 610 741.75 L 653.75 741.75 " fill="none" stroke="#a0a0a0" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="Connector-j26388kr-ko102" transform="translate(-359.95,-480)">
+    <g id="graphics">
+      <path d="M 688.75 610 L 732.75 610 " fill="none" stroke="#a0a0a0" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="Connector-j26388kr-ko103" transform="translate(-359.95,-480)">
+    <g id="graphics">
+      <path d="M 688.75 741.75 L 732.75 741.75 " fill="none" stroke="#a0a0a0" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="j26388kr-ko109" transform="translate(560.05,90)">
+    <desc>root/network/devices/genericServer?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(0.8297872543334961,0.8333333730697632)">
+      <path fill="#1E3947" d="M41.6,100.2H3.4c-1.9,0-3.4-1.5-3.4-3.4V3.6c0-1.9,1.5-3.4,3.4-3.4h38.2c1.9,0,3.4,1.5,3.4,3.4v93.2&#xA;&#x9;C45,98.6,43.5,100.2,41.6,100.2z"/>
+      <rect x="0.1" y="8.2" fill="#DCE9F7" width="44.9" height="1.1"/>
+      <rect x="0.1" y="87.1" fill="#DCE9F7" width="44.2" height="1.1"/>
+      <rect x="0" y="64.1" fill="#1A6684" width="45" height="0.6"/>
+      <g>
+        <rect x="6.5" y="14.8" fill="#236A8E" width="32.2" height="3.9"/>
+        <rect x="6.5" y="19.7" fill="#236A8E" width="32.2" height="3.9"/>
+        <rect x="7.3" y="16.3" fill="#DCE9F7" width="5.8" height="1.2"/>
+        <rect x="7.3" y="21.1" fill="#DCE9F7" width="5.8" height="1.2"/>
+      </g>
+      <rect x="6.5" y="26" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="6.5" y="30.9" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="7.3" y="27.5" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <rect x="7.3" y="32.3" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <rect x="6.5" y="39.3" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="6.5" y="44.2" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="7.3" y="40.8" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <rect x="7.3" y="45.6" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <circle opacity="0.62" fill="#FF466A" cx="39.6" cy="93.1" r="1.7"/>
+      <circle opacity="0.62" fill="#43D190" cx="33.3" cy="93.1" r="1.7"/>
+      <g>
+        <rect x="4.1" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="3.4" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="6.9" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="6.2" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="9.6" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="8.9" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="12.4" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="11.7" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="15.1" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="14.4" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="17.9" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="17.2" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="20.7" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="19.9" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="23.4" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="22.7" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="26.2" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="25.5" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="28.9" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="28.2" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="31.7" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="31" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="34.5" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="33.7" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="37.2" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="36.5" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="40" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="39.3" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+    </g>
+  </g>
+  <g id="j26388kr-ko108" transform="translate(560.05,221.75)">
+    <desc>root/network/devices/genericServer?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(0.8297872543334961,0.8333333730697632)">
+      <path fill="#1E3947" d="M41.6,100.2H3.4c-1.9,0-3.4-1.5-3.4-3.4V3.6c0-1.9,1.5-3.4,3.4-3.4h38.2c1.9,0,3.4,1.5,3.4,3.4v93.2&#xA;&#x9;C45,98.6,43.5,100.2,41.6,100.2z"/>
+      <rect x="0.1" y="8.2" fill="#DCE9F7" width="44.9" height="1.1"/>
+      <rect x="0.1" y="87.1" fill="#DCE9F7" width="44.2" height="1.1"/>
+      <rect x="0" y="64.1" fill="#1A6684" width="45" height="0.6"/>
+      <g>
+        <rect x="6.5" y="14.8" fill="#236A8E" width="32.2" height="3.9"/>
+        <rect x="6.5" y="19.7" fill="#236A8E" width="32.2" height="3.9"/>
+        <rect x="7.3" y="16.3" fill="#DCE9F7" width="5.8" height="1.2"/>
+        <rect x="7.3" y="21.1" fill="#DCE9F7" width="5.8" height="1.2"/>
+      </g>
+      <rect x="6.5" y="26" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="6.5" y="30.9" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="7.3" y="27.5" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <rect x="7.3" y="32.3" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <rect x="6.5" y="39.3" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="6.5" y="44.2" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="7.3" y="40.8" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <rect x="7.3" y="45.6" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <circle opacity="0.62" fill="#FF466A" cx="39.6" cy="93.1" r="1.7"/>
+      <circle opacity="0.62" fill="#43D190" cx="33.3" cy="93.1" r="1.7"/>
+      <g>
+        <rect x="4.1" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="3.4" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="6.9" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="6.2" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="9.6" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="8.9" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="12.4" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="11.7" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="15.1" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="14.4" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="17.9" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="17.2" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="20.7" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="19.9" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="23.4" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="22.7" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="26.2" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="25.5" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="28.9" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="28.2" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="31.7" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="31" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="34.5" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="33.7" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="37.2" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="36.5" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="40" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="39.3" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+    </g>
+  </g>
+  <g id="Connector-j26388kr-ko112" transform="translate(-359.95,-480)">
+    <g id="graphics">
+      <path d="M 673.75 655 L 673.75 675 L 940 675 L 940 655 " fill="none" stroke="#a0a0a0" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="Connector-j26388kr-ko113" transform="translate(-359.95,-480)">
+    <g id="graphics">
+      <path d="M 673.75 701.75 L 673.75 681.75 L 940 681.75 L 940 701.75 " fill="none" stroke="#a0a0a0" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="PC-j26388kr-ko115" transform="translate(550.05,360)">
+    <desc>root/network/devices/genericPc?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(0.5,0.4545454680919647)">
+      <g>
+        <g>
+          <path fill="#1B2E3D" d="M127.9,110H84.3c-1.2,0-2.1-1-2.1-2.1V2.1c0-1.2,1-2.1,2.1-2.1h43.6c1.2,0,2.1,1,2.1,2.1v105.7&#xA;&#x9;&#x9;&#x9;C130,109,129,110,127.9,110z"/>
+          <path fill="#D8DDE1" d="M125.4,105.1H86.3c-1.2,0-2.1-1-2.1-2.1V4.2c0-1.2,1-2.1,2.1-2.1h39.1c1.2,0,2.1,1,2.1,2.1V103&#xA;&#x9;&#x9;&#x9;C127.5,104.2,126.5,105.1,125.4,105.1z"/>
+          <path fill="#36485C" d="M122.9,10.3H89.2c-0.6,0-1-0.5-1-1V8.1c0-0.6,0.5-1,1-1h33.7c0.6,0,1,0.5,1,1v1.2&#xA;&#x9;&#x9;&#x9;C123.9,9.8,123.5,10.3,122.9,10.3z"/>
+          <path fill="#36485C" d="M123.1,24.7H89.4c-0.6,0-1-0.5-1-1v-4c0-0.6,0.5-1,1-1h33.7c0.6,0,1,0.5,1,1v4&#xA;&#x9;&#x9;&#x9;C124.1,24.2,123.7,24.7,123.1,24.7z"/>
+          <path fill="#2A6ED1" d="M123.6,106.1H88.9c-0.3,0-0.5-0.2-0.5-0.5V105c0-0.3,0.2-0.5,0.5-0.5h34.7c0.3,0,0.5,0.2,0.5,0.5v0.5&#xA;&#x9;&#x9;&#x9;C124.1,105.9,123.9,106.1,123.6,106.1z"/>
+          <g>
+            <rect x="82.1" y="78" fill="#495A5E" width="47.9" height="1"/>
+          </g>
+          <g>
+            <rect x="82.1" y="14" fill="#495A5E" width="47.9" height="1"/>
+          </g>
+          <ellipse fill="#2A6ED1" cx="106.3" cy="57.8" rx="2.6" ry="2.7"/>
+        </g>
+        <path fill="#1B2E3D" d="M52.3,100.5h-6.8c-1.1,0-2-0.9-2-2V86.7c0-1.1,0.9-2,2-2h6.8c1.1,0,2,0.9,2,2v11.8&#xA;&#x9;&#x9;C54.3,99.6,53.4,100.5,52.3,100.5z"/>
+        <path fill="#324556" d="M96.9,91H0.8c-0.6,0-1-0.5-1-1V30c0-0.6,0.5-1,1-1h96.1c0.6,0,1,0.5,1,1v60C97.9,90.6,97.5,91,96.9,91z"/>
+        <path fill="#DCF1F9" d="M95.1,89H2.7c-0.6,0-1-0.5-1-1V32.1c0-0.6,0.5-1,1-1h92.4c0.6,0,1,0.5,1,1v55.9C96.1,88.5,95.6,89,95.1,89z&#xA;&#x9;&#x9;"/>
+        <path opacity="0.41" fill="#E4E7EA" d="M95.8,96.1"/>
+        <path fill="#222628" d="M71,102.3H26.8c-0.7,0-1.3-0.6-1.3-1.3v-0.5c0-0.7,0.6-1.3,1.3-1.3H71c0.7,0,1.3,0.6,1.3,1.3v0.5&#xA;&#x9;&#x9;C72.3,101.7,71.7,102.3,71,102.3z"/>
+        <path fill="#324556" d="M71.6,101.5H26.1c-0.4,0-0.7-0.3-0.7-0.7v-1.4c0-0.4,0.3-0.7,0.7-0.7h45.5c0.4,0,0.7,0.3,0.7,0.7v1.4&#xA;&#x9;&#x9;C72.3,101.2,72,101.5,71.6,101.5z"/>
+      </g>
+    </g>
+    <text x="0" y="0" width="51.6" height="46.75" transform="translate(6.7,60)">
+      <tspan x="7" y="17.92001953125" style="font-family:Helvetica;font-size:14px;fill:#000000;">JUMP</tspan>
+      <tspan x="11.1" y="32.92001953125" style="font-family:Helvetica;font-size:14px;fill:#000000;">BOX</tspan>
+    </text>
+  </g>
+  <g id="j26388kr-ko117" transform="translate(740.05,90)">
+    <desc>root/network/devices/genericServer?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(0.8297872543334961,0.8333333730697632)">
+      <path fill="#1E3947" d="M41.6,100.2H3.4c-1.9,0-3.4-1.5-3.4-3.4V3.6c0-1.9,1.5-3.4,3.4-3.4h38.2c1.9,0,3.4,1.5,3.4,3.4v93.2&#xA;&#x9;C45,98.6,43.5,100.2,41.6,100.2z"/>
+      <rect x="0.1" y="8.2" fill="#DCE9F7" width="44.9" height="1.1"/>
+      <rect x="0.1" y="87.1" fill="#DCE9F7" width="44.2" height="1.1"/>
+      <rect x="0" y="64.1" fill="#1A6684" width="45" height="0.6"/>
+      <g>
+        <rect x="6.5" y="14.8" fill="#236A8E" width="32.2" height="3.9"/>
+        <rect x="6.5" y="19.7" fill="#236A8E" width="32.2" height="3.9"/>
+        <rect x="7.3" y="16.3" fill="#DCE9F7" width="5.8" height="1.2"/>
+        <rect x="7.3" y="21.1" fill="#DCE9F7" width="5.8" height="1.2"/>
+      </g>
+      <rect x="6.5" y="26" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="6.5" y="30.9" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="7.3" y="27.5" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <rect x="7.3" y="32.3" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <rect x="6.5" y="39.3" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="6.5" y="44.2" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="7.3" y="40.8" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <rect x="7.3" y="45.6" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <circle opacity="0.62" fill="#FF466A" cx="39.6" cy="93.1" r="1.7"/>
+      <circle opacity="0.62" fill="#43D190" cx="33.3" cy="93.1" r="1.7"/>
+      <g>
+        <rect x="4.1" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="3.4" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="6.9" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="6.2" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="9.6" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="8.9" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="12.4" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="11.7" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="15.1" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="14.4" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="17.9" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="17.2" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="20.7" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="19.9" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="23.4" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="22.7" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="26.2" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="25.5" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="28.9" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="28.2" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="31.7" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="31" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="34.5" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="33.7" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="37.2" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="36.5" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="40" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="39.3" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+    </g>
+  </g>
+  <g id="j26388kr-ko116" transform="translate(740.05,221.75)">
+    <desc>root/network/devices/genericServer?version=2&amp;author=Cinergix</desc>
+    <g id="image" transform="scale(0.8297872543334961,0.8333333730697632)">
+      <path fill="#1E3947" d="M41.6,100.2H3.4c-1.9,0-3.4-1.5-3.4-3.4V3.6c0-1.9,1.5-3.4,3.4-3.4h38.2c1.9,0,3.4,1.5,3.4,3.4v93.2&#xA;&#x9;C45,98.6,43.5,100.2,41.6,100.2z"/>
+      <rect x="0.1" y="8.2" fill="#DCE9F7" width="44.9" height="1.1"/>
+      <rect x="0.1" y="87.1" fill="#DCE9F7" width="44.2" height="1.1"/>
+      <rect x="0" y="64.1" fill="#1A6684" width="45" height="0.6"/>
+      <g>
+        <rect x="6.5" y="14.8" fill="#236A8E" width="32.2" height="3.9"/>
+        <rect x="6.5" y="19.7" fill="#236A8E" width="32.2" height="3.9"/>
+        <rect x="7.3" y="16.3" fill="#DCE9F7" width="5.8" height="1.2"/>
+        <rect x="7.3" y="21.1" fill="#DCE9F7" width="5.8" height="1.2"/>
+      </g>
+      <rect x="6.5" y="26" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="6.5" y="30.9" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="7.3" y="27.5" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <rect x="7.3" y="32.3" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <rect x="6.5" y="39.3" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="6.5" y="44.2" fill="#236A8E" width="32.2" height="3.9"/>
+      <rect x="7.3" y="40.8" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <rect x="7.3" y="45.6" fill="#DCE9F7" width="5.8" height="1.2"/>
+      <circle opacity="0.62" fill="#FF466A" cx="39.6" cy="93.1" r="1.7"/>
+      <circle opacity="0.62" fill="#43D190" cx="33.3" cy="93.1" r="1.7"/>
+      <g>
+        <rect x="4.1" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="3.4" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="6.9" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="6.2" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="9.6" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="8.9" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="12.4" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="11.7" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="15.1" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="14.4" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="17.9" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="17.2" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="20.7" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="19.9" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="23.4" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="22.7" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="26.2" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="25.5" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="28.9" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="28.2" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="31.7" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="31" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="34.5" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="33.7" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="37.2" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="36.5" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+      <g>
+        <rect x="40" y="66.2" fill="#041323" width="0.3" height="19.1"/>
+        <rect x="39.3" y="65.5" fill="#041323" width="1.7" height="20.5"/>
+      </g>
+    </g>
+  </g>
+  <g id="Connector-j26388kr-ko120" transform="translate(-359.95,-480)">
+    <g id="graphics">
+      <path d="M 955 610 L 1028.6702132225037 610 L 1028.6702132225037 675 L 1120 675 L 1120 655 " fill="none" stroke="#a0a0a0" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="Connector-j26388kr-ko121" transform="translate(-359.95,-480)">
+    <g id="graphics">
+      <path d="M 955 741.75 L 1028.6702132225037 741.75 L 1028.6702132225037 681.75 L 1120 681.75 L 1120 701.75 " fill="none" stroke="#a0a0a0" stroke-width="1.5"/>
+    </g>
+  </g>
+  <g id="TextBox-j26388kr-ko123" transform="translate(215.05,330)">
+    <desc>root/textControl?version=&amp;author=</desc>
+    <g id="image"/>
+    <text x="0" y="0" width="33.05" height="25.75" transform="translate(4.95,2.45)">
+      <tspan x="7" y="17.92001953125" style="font-family:Helvetica;font-size:14px;fill:#4b4b4b;">DP</tspan>
+    </text>
+  </g>
+  <g id="j26388kr-ko126" transform="translate(290.05,330)">
+    <desc>root/textControl?version=&amp;author=</desc>
+    <g id="image"/>
+    <text x="0" y="0" width="34.15" height="25.75" transform="translate(4.4,3.5)">
+      <tspan x="7" y="17.92001953125" style="font-family:Helvetica;font-size:14px;fill:#4b4b4b;">HA</tspan>
+    </text>
+  </g>
+  <g id="j26388kr-ko130" transform="translate(355.05,330)">
+    <desc>root/textControl?version=&amp;author=</desc>
+    <g id="image"/>
+    <text x="0" y="0" width="70.25" height="25.75" transform="translate(2.35,4.6)">
+      <tspan x="7.35" y="17.92001953125" style="font-family:Helvetica;font-size:14px;fill:#4b4b4b;">APACHE</tspan>
+    </text>
+  </g>
+  <g id="j26388kr-ko132" transform="translate(545.05,15)">
+    <desc>root/textControl?version=&amp;author=</desc>
+    <g id="image"/>
+    <text x="0" y="0" width="46.05" height="25.75" transform="translate(14.45,3.5)">
+      <tspan x="7" y="17.92001953125" style="font-family:Helvetica;font-size:14px;fill:#4b4b4b;">DMZ</tspan>
+    </text>
+  </g>
+  <g id="j26388kr-ko138" transform="translate(540.05,325)">
+    <desc>root/textControl?version=&amp;author=</desc>
+    <g id="image"/>
+    <text x="0" y="0" width="45.85" height="25.75" transform="translate(14.55,3.5)">
+      <tspan x="7" y="17.92001953125" style="font-family:Helvetica;font-size:14px;fill:#4b4b4b;">MCA</tspan>
+    </text>
+  </g>
+  <g id="j26388kr-ko142" transform="translate(720.05,325)">
+    <desc>root/textControl?version=&amp;author=</desc>
+    <g id="image"/>
+    <text x="0" y="0" width="39.05" height="25.75" transform="translate(17.95,3.5)">
+      <tspan x="7" y="17.92001953125" style="font-family:Helvetica;font-size:14px;fill:#4b4b4b;">FEB</tspan>
+    </text>
+  </g>
+</svg>

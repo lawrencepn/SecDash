@@ -1,0 +1,170 @@
+/* app css stylesheet */
+body{
+  background-color: white!important;
+}
+.menu {
+  list-style: none;
+  border-bottom: 0.1em solid black;
+  margin-bottom: 2em;
+  padding: 0 0 0.5em;
+}
+
+.menu:before {
+  content: "[";
+}
+
+.menu:after {
+  content: "]";
+}
+
+.menu > li {
+  display: inline;
+}
+
+.menu > li + li:before {
+  content: "|";
+  padding-right: 0.3em;
+}
+.state{
+  fill: none;
+  stroke: #a9a9a9;
+  stroke-width: 1;
+}
+.state:hover{
+  fill-opacity:0.5;
+}
+#tooltip {
+  position: absolute;
+  text-align: center;
+  padding: 20px;
+  margin: 10px;
+  font: 12px sans-serif;
+  background: lightsteelblue;
+  border: 1px;
+  border-radius: 2px;
+  pointer-events: none;
+}
+#tooltip h4{
+  margin:0;
+  font-size:14px;
+}
+#tooltip{
+  background:rgba(0,0,0,0.9);
+  border:1px solid grey;
+  border-radius:5px;
+  font-size:12px;
+  width:auto;
+  padding:4px;
+  color:white;
+  opacity:0;
+}
+#tooltip table{
+  table-layout:fixed;
+}
+#tooltip tr td{
+  padding:0;
+  margin:0;
+}
+#tooltip tr td:nth-child(1){
+  width:50px;
+}
+#tooltip tr td:nth-child(2){
+  text-align:center;
+}
+
+.countries {
+  fill: #6e7072;
+  stroke: #fff;
+}
+
+.countries :hover {
+  fill: #8a8a8a;
+}
+
+.country-BWA,
+.country-NAM,
+.country-LSO,
+.country-GHA,
+.country-UGA,
+.country-ZWE,
+.country-SWZ,
+.country-NGA{
+  fill: #2a5aff
+}
+.active-country{
+  fill: #dd4910;
+}
+.resolved{
+  color:green;
+}
+.notResolved{
+  color:red;
+}
+.tabs md-tabs {
+  border: 1px solid #e1e1e1;
+}
+.country-tabs md-icon.material-icons{
+  font-size: 16px;
+  height: 16px;
+  width: 16px;
+  min-height: 16px;
+}
+.country-tabs md-list-item > p{
+  font-size: 12px;
+}
+.country-tabs md-list-item.md-no-proxy{
+  padding: 0px;
+}
+.country-tabs md-list-item._md-button-wrap > div.md-button:first-child{
+  padding: 0px;
+}
+.country-tabs md-list-item{
+  height: 36px;
+  min-height: 36px;
+}
+.country-tabs md-list-item > md-icon:first-child:not(.md-avatar-icon), md-list-item .md-list-item-inner > md-icon:first-child:not(.md-avatar-icon){
+  margin-right: 16px !important;
+  margin-top: 5px !important;
+  margin-bottom: 5px !important;
+}
+.country-tabs .md-button{
+  margin: 0px;
+  min-height: 35px;
+}
+.country-tabs .md-button.md-fab.md-mini {
+  line-height: 35px;
+  width: 35px;
+  height: 35px;
+  box-shadow: none;
+}
+.country-tabs md-list-item .md-no-style.md-button{
+  font-size: 12px;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th, td {
+  padding: 0.25rem;
+  text-align: left;
+  border: 1px solid #ccc;
+}
+tbody tr:nth-child(odd) {
+  background: #eee;
+}
+table.pentest {
+  font-size: 12px;
+}
+table.pentest > thead{
+  font-size: 14px;
+  text-align: left;
+  border-bottom: 1px solid #ddd;
+}
+text > tspan{
+  font-family: 'Lato', sans-serif !important;
+  font-family: 'Roboto', sans-serif;
+}
+div.pentests{
+  height: 350px;
+  margin-top:15px ;
+}

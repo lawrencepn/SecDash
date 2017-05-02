@@ -1,0 +1,460 @@
+ <div layout="column" layout-fill>
+        <md-content id="toastBounds">
+            <div layout="row">
+                <div flex="50">
+                    <demo country="_dash.country(country)" ></demo>
+                </div>
+                <div flex="45" class="tabs" ng-switch="_dash.content_type">
+                        <div ng-switch-default layout="column" layout-align="center center">
+                            <div>
+                                <h2>Change The Bank Portfolios</h2>
+                                <h4>Select a country to see its Security Posture</h4>
+                            </div>
+
+                        </div>
+                        <div ng-switch-when="infrastructure">
+                            <md-toolbar class="md-hue-2">
+                                <div class="md-toolbar-tools">
+                                    <md-button class="md-icon-button" ng-click="_dash.backToList()" aria-label="Infrastructure">
+                                        <md-icon md-font-set="material-icons">arrow_back</md-icon>
+                                    </md-button>
+                                </div>
+                            </md-toolbar>
+                            <object data="network_demo_small.svg" type="image/svg+xml">
+                            </object>
+                        </div>
+                        <div ng-switch-when="true">
+                            <md-toolbar class="md-hue-2" layout="row">
+                                <h1 class="md-toolbar-tools">{{_dash.a_country.admin}}</h1>
+                            </md-toolbar>
+                            <md-tabs md-dynamic-height md-border-bottom md-selected="_dash.selectedIndex">
+                                <md-tab label="Digital Channels">
+                                    <md-content layout-padding>
+                                        <div layout="column">
+                                            <div layout="row" >
+                                                <div flex>
+                                                    <div layout="row">
+                                                        <div flex>
+                                                            <h4>Mobile</h4>
+                                                        </div>
+                                                    </div>
+                                                    <div class="country-tabs">
+                                                        <md-list>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.mobile.public_domain_ssl > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>Public Domain SSL</p>
+                                                                <md-button class="md-icon-button secondary" aria-label="Options">
+                                                                    <md-icon md-font-set="material-icons" >more_vert</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.mobile.ssl_compliance > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>SSL Compliance</p>
+                                                                <md-button class="md-icon-button secondary" aria-label="Options">
+                                                                    <md-icon md-font-set="material-icons" >more_vert</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.mobile.access_compliance > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>Access Compliance</p>
+                                                                <md-button class="md-icon-button secondary" aria-label="Options">
+                                                                    <md-icon md-font-set="material-icons" >more_vert</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.mobile.code_security > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>SDL Compliance</p>
+                                                                <md-button class="md-icon-button secondary" aria-label="Options">
+                                                                    <md-icon md-font-set="material-icons" >more_vert</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.mobile.security_log_compliance > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>Security Logs Compliance</p>
+                                                                <md-button class="md-icon-button secondary" aria-label="Options">
+                                                                    <md-icon md-font-set="material-icons" >more_vert</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.mobile.baseline_compliance > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>Baseline Compliance</p>
+                                                                <md-button class="md-icon-button secondary" aria-label="Options">
+                                                                    <md-icon md-font-set="material-icons" >more_vert</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.web.baseline_compliance > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>Pen Test</p>
+                                                                <md-button class="md-icon-button secondary" ng-click="_dash.penTests()" aria-label="Pen Tests">
+                                                                    <md-icon md-font-set="material-icons" >bug_report</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                        </md-list>
+                                                    </div>
+                                                    <div layout="row" class="country-tabs">
+                                                        <div flex>
+                                                            <md-button class="md-fab md-mini md-primary" aria-label="Infrastructure" ng-click="_dash.showNetworkDiagram($event,'mobile')">
+                                                                <md-icon md-font-set="material-icons" >storage</md-icon>
+                                                            </md-button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div flex>
+                                                    <div layout="row">
+                                                        <div flex>
+                                                            <h4>Web</h4>
+                                                        </div>
+                                                    </div>
+                                                    <div class="country-tabs">
+                                                        <md-list>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.web.public_domain_ssl > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>Public Domain SSL</p>
+                                                                <md-button class="md-icon-button secondary" aria-label="Options">
+                                                                    <md-icon md-font-set="material-icons" >more_vert</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.web.ssl_compliance > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>SSL Compliance</p>
+                                                                <md-button class="md-icon-button secondary" aria-label="Options">
+                                                                    <md-icon md-font-set="material-icons" >more_vert</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.web.access_compliance > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>Access Compliance</p>
+                                                                <md-button class="md-icon-button secondary" aria-label="Options">
+                                                                    <md-icon md-font-set="material-icons" >more_vert</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.web.code_security > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>Code Security</p>
+                                                                <md-button class="md-icon-button secondary" aria-label="Options">
+                                                                    <md-icon md-font-set="material-icons" >more_vert</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.web.security_log_compliance > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>Security Logs Compliance</p>
+                                                                <md-button class="md-icon-button secondary" aria-label="Options">
+                                                                    <md-icon md-font-set="material-icons" >more_vert</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.web.baseline_compliance > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>Baseline Compliance</p>
+                                                                <md-button class="md-icon-button secondary" aria-label="Options">
+                                                                    <md-icon md-font-set="material-icons" >more_vert</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.web.baseline_compliance > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>Pen Test</p>
+                                                                <md-button class="md-icon-button secondary" ng-click="_dash.penTests()" aria-label="Pen Tests">
+                                                                    <md-icon md-font-set="material-icons" >bug_report</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+
+                                                        </md-list>
+
+                                                    </div>
+                                                    <div layout="row" class="country-tabs">
+                                                        <div flex>
+                                                            <md-button class="md-fab md-mini md-primary" aria-label="Infrastructure" ng-click="showNetworkDiagram('web')">
+                                                                <md-icon md-font-set="material-icons" >storage</md-icon>
+                                                            </md-button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div flex>
+                                                    <div layout="row">
+                                                        <div flex>
+                                                            <h4>USSD</h4>
+                                                        </div>
+                                                    </div>
+                                                    <div class="country-tabs">
+                                                        <md-list>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.web.public_domain_ssl > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>Public Domain SSL</p>
+                                                                <md-button class="md-icon-button secondary" aria-label="Options">
+                                                                    <md-icon md-font-set="material-icons" >more_vert</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.web.ssl_compliance > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>SSL Compliance</p>
+                                                                <md-button class="md-icon-button secondary" aria-label="Options">
+                                                                    <md-icon md-font-set="material-icons" >more_vert</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.web.access_compliance > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>Access Compliance</p>
+                                                                <md-button class="md-icon-button secondary" aria-label="Options">
+                                                                    <md-icon md-font-set="material-icons" >more_vert</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.web.code_security > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>Code Security</p>
+                                                                <md-button class="md-icon-button secondary" aria-label="Options">
+                                                                    <md-icon md-font-set="material-icons" >more_vert</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.web.security_log_compliance > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>Security Logs Compliance</p>
+                                                                <md-button class="md-icon-button secondary" aria-label="Options">
+                                                                    <md-icon md-font-set="material-icons" >more_vert</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.web.baseline_compliance > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>Baseline Compliance</p>
+                                                                <md-button class="md-icon-button secondary" aria-label="Options">
+                                                                    <md-icon md-font-set="material-icons" >more_vert</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.web.baseline_compliance > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>Pen Test</p>
+                                                                <md-button class="md-icon-button secondary" ng-click="_dash.penTests()" aria-label="Pen Tests">
+                                                                    <md-icon md-font-set="material-icons" >bug_report</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                        </md-list>
+                                                    </div>
+                                                    <div layout="row" class="country-tabs">
+                                                        <div flex>
+                                                            <md-button class="md-fab md-mini md-primary" aria-label="Infrastructure" ng-click="showNetworkDiagram('ussd')">
+                                                                <md-icon md-font-set="material-icons" >storage</md-icon>
+                                                            </md-button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </md-content>
+                                </md-tab>
+                                <md-tab label="Physical Channels">
+                                    <md-content layout-padding>
+                                        <div layout="column">
+                                            <div layout="row" class="country-tabs">
+                                                <div flex>
+                                                    <div layout="row">
+                                                        <div flex>
+                                                            <h4>ATM</h4>
+                                                        </div>
+
+                                                    </div>
+                                                    <div class="country-tabs">
+                                                        <md-list>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.mobile.public_domain_ssl > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>Public Domain SSL</p>
+                                                                <md-button class="md-icon-button secondary" aria-label="Options">
+                                                                    <md-icon md-font-set="material-icons" >more_vert</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.mobile.ssl_compliance > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>SSL Compliance</p>
+                                                                <md-button class="md-icon-button secondary" aria-label="Options">
+                                                                    <md-icon md-font-set="material-icons" >more_vert</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.mobile.access_compliance > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>Access Compliance</p>
+                                                                <md-button class="md-icon-button secondary" aria-label="Options">
+                                                                    <md-icon md-font-set="material-icons" >more_vert</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.mobile.code_security > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>Code Security</p>
+                                                                <md-button class="md-icon-button secondary" aria-label="Options">
+                                                                    <md-icon md-font-set="material-icons" >more_vert</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.mobile.security_log_compliance > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>Security Logs Compliance</p>
+                                                                <md-button class="md-icon-button secondary" aria-label="Options">
+                                                                    <md-icon md-font-set="material-icons" >more_vert</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.mobile.baseline_compliance > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>Baseline Compliance</p>
+                                                                <md-button class="md-icon-button secondary" aria-label="Options">
+                                                                    <md-icon md-font-set="material-icons" >more_vert</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.web.baseline_compliance > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>Pen Test</p>
+                                                                <md-button class="md-icon-button secondary" ng-click="_dash.penTests()" aria-label="Pen Tests">
+                                                                    <md-icon md-font-set="material-icons" >bug_report</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                        </md-list>
+                                                    </div>
+                                                    <div layout="row" class="country-tabs">
+                                                        <div flex>
+                                                            <md-button class="md-fab md-mini md-primary" aria-label="Infrastructure" ng-click="showNetworkDiagram('atm')">
+                                                                <md-icon md-font-set="material-icons" >storage</md-icon>
+                                                            </md-button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div flex>
+                                                    <div layout="row">
+                                                        <div flex>
+                                                            <h4>BNA</h4>
+                                                        </div>
+                                                    </div>
+                                                    <div class="country-tabs">
+                                                        <md-list>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.web.public_domain_ssl > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>Public Domain SSL</p>
+                                                                <md-button class="md-icon-button secondary" aria-label="Options">
+                                                                    <md-icon md-font-set="material-icons" >more_vert</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.web.ssl_compliance > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>SSL Compliance</p>
+                                                                <md-button class="md-icon-button secondary" aria-label="Options">
+                                                                    <md-icon md-font-set="material-icons" >more_vert</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.web.access_compliance > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>Access Compliance</p>
+                                                                <md-button class="md-icon-button secondary" aria-label="Options">
+                                                                    <md-icon md-font-set="material-icons" >more_vert</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.web.code_security > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>Code Security</p>
+                                                                <md-button class="md-icon-button secondary" aria-label="Options">
+                                                                    <md-icon md-font-set="material-icons" >more_vert</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.web.security_log_compliance > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>Security Logs Compliance</p>
+                                                                <md-button class="md-icon-button secondary" aria-label="Options">
+                                                                    <md-icon md-font-set="material-icons" >more_vert</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.web.baseline_compliance > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>Baseline Compliance</p>
+                                                                <md-button class="md-icon-button secondary" aria-label="Options">
+                                                                    <md-icon md-font-set="material-icons" >more_vert</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" ng-class="_dash.country_display.web.baseline_compliance > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+                                                                <p>Pen Test</p>
+                                                                <md-button class="md-icon-button secondary" ng-click="_dash.penTests()" aria-label="Pen Tests">
+                                                                    <md-icon md-font-set="material-icons" >bug_report</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                        </md-list>
+                                                    </div>
+                                                    <div layout="row" class="country-tabs">
+                                                        <div flex>
+                                                            <md-button class="md-fab md-mini md-primary" aria-label="Infrastructure" ng-click="showNetworkDiagram('bna')">
+                                                                <md-icon md-font-set="material-icons" >storage</md-icon>
+                                                            </md-button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </md-content>
+                                </md-tab>
+                                <md-tab label="Pen Tests" md-on-select="" >
+
+                                </md-tab>
+                            </md-tabs>
+                            <div layout="row" ng-if="_dash.showSecInfo">
+
+                            </div>
+                            <div layout="column" ng-if="_dash.showPenTests" class="pentests">
+                                <md-toolbar class="md-warn">
+                                    <div class="md-toolbar-tools">
+                                        <h2 class="md-flex">Pen Test Reports Issues</h2>
+                                    </div>
+                                </md-toolbar>
+                                <md-content flex>
+                                    <table class="pentest">
+                                        <thead>
+                                        <tr>
+                                            <th>Report Date</th>
+                                            <th>Issue name</th>
+                                            <th>Issue status</th>
+                                            <th>Issue Resolution</th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        <tr ng-repeat="item in _dash.pentest_items" ng-class="item[3] !== 'h' ? 'resolved':'notResolved'">
+                                            <td>{{item[0]}}</td>
+                                            <td>{{item[4]}}</td>
+                                            <td>{{item[3] | uppercase}}</td>
+                                            <td>{{item[7]}}</td>
+                                        </tr>
+                                        </tbody>
+                                    </table>
+                                </md-content>
+                            </div>
+                    </div>
+                </div>
+            </div>
+        </md-content>
+ </div>
+
