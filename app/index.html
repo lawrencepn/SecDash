@@ -1,34 +1,49 @@
 <!DOCTYPE html>
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Sec Dash</title>
-  <meta name="description" content="">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="app.css">
-  <script src="bower_components/html5-boilerplate/dist/js/vendor/modernizr-2.8.3.min.js"></script>
-  <link rel="stylesheet" href="bower_components/angular-material/angular-material.css">
-  <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto:400,500,700,400italic'>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" >
-  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Sec Dash</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="app.css">
+    <script src="bower_components/html5-boilerplate/dist/js/vendor/modernizr-2.8.3.min.js"></script>
+    <link rel="stylesheet" href="bower_components/angular-material/angular-material.css">
+    <!--<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto:400,500,700,400italic'>-->
+    <!--<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">-->
+    <link rel="stylesheet" href="bower_components/material-design-icons/iconfont/material-icons.css">
 </head>
 <body ng-app="secDash" layout="column" ng-controller="AppController" ng-cloak>
-<div ng-view></div>
+<div ng-view layout-fill></div>
 
-  <!-- In production use:
-  <script src="//ajax.googleapis.com/ajax/libs/angularjs/x.x.x/angular.min.js"></script>
-  -->
-  <script src="bower_components/angular/angular.js"></script>
-  <script src="bower_components/angular-route/angular-route.js"></script>
-  <script src="bower_components/angular-aria/angular-aria.js"></script>
-  <script src="bower_components/angular-animate/angular-animate.js"></script>
-  <script src="bower_components/angular-material/angular-material.js"></script>
-  <script src="app.js"></script>
-  <script src="dashboard/dashboard.js"></script>
-  <script src="bower_components/d3/d3.min.js"></script>
-  <script src="http://d3js.org/topojson.v1.min.js"></script>
+<!-- In production use:
+<script src="//ajax.googleapis.com/ajax/libs/angularjs/x.x.x/angular.min.js"></script>
+-->
+<script src="bower_components/angular/angular.js"></script>
+<script src="bower_components/angular-route/angular-route.js"></script>
+<script src="bower_components/angular-aria/angular-aria.js"></script>
+<script src="bower_components/angular-animate/angular-animate.js"></script>
+<script src="bower_components/angular-material/angular-material.js"></script>
 
-  <script src="components/appController.js"></script>
+<script src="app.js"></script>
+<script src="country_data/country_template.js"></script>
+<script src="country_data/ghana.js"></script>
+<script src="country_data/botswana.js"></script>
+<script src="country_data/nigeria.js"></script>
+
+<script src="country_data/zimbabwe.js"></script>
+<script src="country_data/swaziland.js"></script>
+
+<script src="country_data/namibia.js"></script>
+<script src="country_data/malawai.js"></script>
+<script src="country_data/lesotho.js"></script>
+<script src="country_data/uganda.js"></script>
+<script src="components/jiradata.js"></script>
+<script src="dashboard/dashboard.js"></script>
+<script src="bower_components/d3/d3.min.js"></script>
+<script src="components/topojson.v1.min.js"></script>
+<script src="components/appController.js"></script>
+
+
 
 </body>
 </html>

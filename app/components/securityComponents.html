@@ -1,0 +1,36 @@
+<md-list>
+    <md-list-item class="md-offset" ng-repeat="component in components_components_list">
+            <md-icon md-font-set="material-icons" ng-class="getClass(component.tag) > 0 ? 'resolved':'notResolved'">verified_user</md-icon>
+        </span>
+        <p>{{component.name}}</p>
+        <!--<md-button class="md-icon-button secondary" ng-click="showMenu" aria-label="Options">-->
+            <!--<md-icon md-font-set="material-icons">more_vert</md-icon>-->
+        <!--</md-button>-->
+        <md-menu class="secondary">
+            <md-button aria-label="Open phone interactions menu" class="md-icon-button" click="openMenu($mdMenu, $event)">
+                <md-icon md-font-set="material-icons">more_vert</md-icon>
+            </md-button>
+            <md-menu-content width="3" class="small-menu">
+                <md-menu-item>
+                    <md-button ng-click="component_information(component.name, component.tag)">
+                        <md-icon md-font-set="material-icons">text_format</md-icon>
+                        Information
+                    </md-button>
+                </md-menu-item>
+                <md-menu-item>
+                    <md-button ng-click="component_progress(component.tag)">
+                        <md-icon md-font-set="material-icons">history</md-icon>
+                        Progress
+                    </md-button>
+                </md-menu-item>
+            </md-menu-content>
+
+        </md-menu>
+        <md-divider ng-if="!$last"></md-divider>
+    </md-list-item>
+</md-list>
+
+
+<!--menu per list item:-->
+    <!--1. Information - explain the item, link to document-->
+    <!--2. Progress - Pull Jira data [jira id, whom assigmed to, comments]-->

@@ -2,6 +2,15 @@
 body{
   background-color: white!important;
 }
+md-list.md-dense md-list-item.md-2-line .md-list-item-text h3, md-list.md-dense md-list-item.md-2-line .md-list-item-text h4, md-list.md-dense md-list-item.md-2-line .md-list-item-text p, md-list.md-dense md-list-item.md-2-line>.md-no-style .md-list-item-text h3, md-list.md-dense md-list-item.md-2-line>.md-no-style .md-list-item-text h4, md-list.md-dense md-list-item.md-2-line>.md-no-style .md-list-item-text p, md-list.md-dense md-list-item.md-3-line .md-list-item-text h3, md-list.md-dense md-list-item.md-3-line .md-list-item-text h4, md-list.md-dense md-list-item.md-3-line .md-list-item-text p, md-list.md-dense md-list-item.md-3-line>.md-no-style .md-list-item-text h3, md-list.md-dense md-list-item.md-3-line>.md-no-style .md-list-item-text h4, md-list.md-dense md-list-item.md-3-line>.md-no-style .md-list-item-text p
+{
+  line-height: 1.05 !important;
+  font-size: 12px !important;
+}
+p{
+  line-height: 1.05 !important;
+  font-size: 12px !important;
+}
 .menu {
   list-style: none;
   border-bottom: 0.1em solid black;
@@ -72,9 +81,19 @@ body{
   text-align:center;
 }
 
+.epx{
+  position: absolute;
+  z-index: 3;
+  top: 500px;
+  left: 20px;
+  width: 250px;
+  height: 150px;
+}
+
 .countries {
   fill: #6e7072;
   stroke: #fff;
+  transform: translate(-100px, 15px);
 }
 
 .countries :hover {
@@ -88,8 +107,13 @@ body{
 .country-UGA,
 .country-ZWE,
 .country-SWZ,
-.country-NGA{
+.country-NGA,
+.country-MWI{
   fill: #2a5aff
+}
+
+.country-NGA{
+  background-image: url('images/flag-nigeria-S.jpg')
 }
 .active-country{
   fill: #dd4910;
@@ -103,22 +127,22 @@ body{
 .tabs md-tabs {
   border: 1px solid #e1e1e1;
 }
-.country-tabs md-icon.material-icons{
+.country-tabs md-icon.material-icons, .small-menu md-icon.material-icons{
   font-size: 16px;
   height: 16px;
   width: 16px;
   min-height: 16px;
 }
-.country-tabs md-list-item > p{
+.country-tabs md-list-item > p, .country-tabs md-list-item .md-list-item-inner > p{
   font-size: 12px;
 }
-.country-tabs md-list-item.md-no-proxy{
+.country-tabs md-list-item.md-no-proxy, .country-tabs md-list-item .md-list-item-inner{
   padding: 0px;
 }
 .country-tabs md-list-item._md-button-wrap > div.md-button:first-child{
   padding: 0px;
 }
-.country-tabs md-list-item{
+.country-tabs md-list-item, .country-tabs md-list-item .md-list-item-inner{
   height: 36px;
   min-height: 36px;
 }
@@ -140,6 +164,7 @@ body{
 .country-tabs md-list-item .md-no-style.md-button{
   font-size: 12px;
 }
+
 table {
   border-collapse: collapse;
   width: 100%;
@@ -164,7 +189,31 @@ text > tspan{
   font-family: 'Lato', sans-serif !important;
   font-family: 'Roboto', sans-serif;
 }
-div.pentests{
+div.bottom_content{
   height: 350px;
-  margin-top:15px ;
+  margin-top:15px;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  -webkit-transition: 0.02s padding cubic-bezier(0.35, 0, 0.25, 1);
+  transition: 0.02s padding cubic-bezier(0.35, 0, 0.25, 1);
+  position: relative;
+  padding-bottom: 0;
+}
+md-toolbar.small-toolbar {
+  min-height: 40px;
+  height: 40px;
+
+}
+md-toolbar.small-toolbar .md-toolbar-tools{
+  font-size: 16px;
+}
+.small-menu md-menu-item{
+  min-height: 35px;
+  height: 35px;
+}
+.small-menu md-menu-item > .md-button {
+  min-height: 35px;
+  height: 30px;
+  line-height: 25px;
+  font-size :13px;
 }
