@@ -1,0 +1,287 @@
+ <div layout="column" layout-fill>
+        <md-content layout-fill id="toastBounds">
+            <div layout="row" layout-fill>
+                <div flex="50">
+                    <africamap country="_dash.country(country)" ></africamap>
+                </div>
+                <div flex="45" class="tabs" ng-switch="_dash.content_type">
+                        <div ng-switch-default layout="column" layout-align="center center">
+                            <div>
+                                <h2>Change The Bank Portfolios</h2>
+                                <h4>Select a country to see its Security Posture</h4>
+                            </div>
+                        </div>
+                        <div ng-switch-when="infrastructure">
+                            <md-toolbar class="md-hue-2">
+                                <div class="md-toolbar-tools">
+                                    <md-button class="md-icon-button" ng-click="_dash.backToList()" aria-label="Infrastructure">
+                                        <md-icon md-font-set="material-icons">arrow_back</md-icon>
+                                    </md-button>
+                                </div>
+                            </md-toolbar>
+                        </div>
+                        <div ng-switch-when="true">
+                            <md-toolbar class="md-hue-2" layout="row">
+                                <div class="md-toolbar-tools">
+                                    <h1 flex md-truncate>{{_dash.a_country.admin}}</h1>
+                                    <h5>Run The Bank Infrastructure</h5>
+                                </div>
+                            </md-toolbar>
+                            <md-tabs md-dynamic-height md-border-bottom md-selected="_dash.selectedIndex">
+                                <md-tab label="Digital Channels">
+                                    <md-content layout-padding>
+
+                                        <div layout="column">
+                                            <div layout="row" >
+                                                <div flex>
+                                                    <div layout="row">
+                                                        <div flex>
+                                                            <h4>Mobile</h4>
+                                                        </div>
+                                                    </div>
+                                                    <div class="country-tabs">
+                                                        <security-components country="_dash.a_country" platform='mobile'></security-components>
+                                                        <md-list>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" class="subjective">verified_user</md-icon>
+                                                                <p>Pen Test</p>
+                                                                <md-button class="md-icon-button secondary" ng-click="_dash.penTests()" aria-label="Pen Tests">
+                                                                    <md-icon md-font-set="material-icons" >bug_report</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                        </md-list>
+                                                    </div>
+                                                    <div layout="row" class="country-tabs">
+                                                        <div flex>
+                                                            <md-button class="md-fab md-mini md-primary" aria-label="Infrastructure" ng-click="_dash.showNetworkDiagram($event,'mobile')">
+                                                                <md-icon md-font-set="material-icons" >storage</md-icon>
+                                                            </md-button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div flex>
+                                                    <div layout="row">
+                                                        <div flex>
+                                                            <h4>Web</h4>
+                                                        </div>
+                                                    </div>
+                                                    <div class="country-tabs">
+                                                        <security-components country="_dash.a_country" platform='web'></security-components>
+                                                        <md-list>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" class="subjective">verified_user</md-icon>
+                                                                <p>Pen Test</p>
+                                                                <md-button class="md-icon-button secondary" ng-click="_dash.penTests()" aria-label="Pen Tests">
+                                                                    <md-icon md-font-set="material-icons" >bug_report</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                        </md-list>
+                                                    </div>
+                                                    <div layout="row" class="country-tabs">
+                                                        <div flex>
+                                                            <md-button class="md-fab md-mini md-primary" aria-label="Infrastructure" ng-click="showNetworkDiagram('web')">
+                                                                <md-icon md-font-set="material-icons" >storage</md-icon>
+                                                            </md-button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div flex>
+                                                    <div layout="row">
+                                                        <div flex>
+                                                            <h4>USSD</h4>
+                                                        </div>
+                                                    </div>
+                                                    <div class="country-tabs">
+                                                        <security-components country="_dash.a_country" platform='ussd'></security-components>
+                                                        <md-list>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" class="subjective">verified_user</md-icon>
+                                                                <p>Pen Test</p>
+                                                                <md-button class="md-icon-button secondary" ng-click="_dash.penTests()" aria-label="Pen Tests">
+                                                                    <md-icon md-font-set="material-icons" >bug_report</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                        </md-list>
+                                                    </div>
+                                                    <div layout="row" class="country-tabs">
+                                                        <div flex>
+                                                            <md-button class="md-fab md-mini md-primary" aria-label="Infrastructure" ng-click="showNetworkDiagram('ussd')">
+                                                                <md-icon md-font-set="material-icons" >storage</md-icon>
+                                                            </md-button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </md-content>
+                                </md-tab>
+                                <md-tab label="Physical Channels">
+                                    <md-content layout-padding>
+                                        <div layout="column">
+                                            <div layout="row" class="country-tabs">
+                                                <div flex>
+                                                    <div layout="row">
+                                                        <div flex>
+                                                            <h4>ATM</h4>
+                                                        </div>
+                                                    </div>
+                                                    <div class="country-tabs">
+                                                        <security-components country="_dash.a_country" platform='atm'></security-components>
+                                                        <md-list>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" class="subjective">verified_user</md-icon>
+                                                                <p>Pen Test</p>
+                                                                <md-button class="md-icon-button secondary" ng-click="_dash.penTests()" aria-label="Pen Tests">
+                                                                    <md-icon md-font-set="material-icons" >bug_report</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                        </md-list>
+                                                    </div>
+                                                    <div layout="row" class="country-tabs">
+                                                        <div flex>
+                                                            <md-button class="md-fab md-mini md-primary" aria-label="Infrastructure" ng-click="showNetworkDiagram('atm')">
+                                                                <md-icon md-font-set="material-icons" >storage</md-icon>
+                                                            </md-button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div flex>
+                                                    <div layout="row">
+                                                        <div flex>
+                                                            <h4>BNA</h4>
+                                                        </div>
+                                                    </div>
+                                                    <div class="country-tabs">
+                                                        <security-components country="_dash.a_country" platform='bna'></security-components>
+                                                        <md-list>
+                                                            <md-list-item class="md-offset">
+                                                                <md-icon md-font-set="material-icons" class="subjective">verified_user</md-icon>
+                                                                <p>Pen Test</p>
+                                                                <md-button class="md-icon-button secondary" ng-click="_dash.penTests()" aria-label="Pen Tests">
+                                                                    <md-icon md-font-set="material-icons" >bug_report</md-icon>
+                                                                </md-button>
+                                                                <md-divider ng-if="!$last"></md-divider>
+                                                            </md-list-item>
+                                                        </md-list>
+                                                    </div>
+                                                    <div layout="row" class="country-tabs">
+                                                        <div flex>
+                                                            <md-button class="md-fab md-mini md-primary" aria-label="Infrastructure" ng-click="showNetworkDiagram('bna')">
+                                                                <md-icon md-font-set="material-icons" >storage</md-icon>
+                                                            </md-button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </md-content>
+                                </md-tab>
+                            </md-tabs>
+                            <div layout="column" ng-if="_dash.bottom_content" ng-switch="_dash.bottom_content" class="bottom_content md-whiteframe-1dp md-whiteframe-z1">
+                                <md-toolbar  class="md-warn small-toolbar">
+                                    <div class="md-toolbar-tools">
+                                        <h4 flex md-truncate>{{_dash.bottom_content_title}}</h4>
+                                        <md-button class="md-icon-button" aria-label="Close Pen Tests" ng-click="_dash.hide_bottom_content()">
+                                            <md-icon md-font-set="material-icons" >close</md-icon>
+                                        </md-button>
+                                    </div>
+                                </md-toolbar>
+                                <md-content flex>
+                                    <div ng-switch-when="information" layout-padding>
+                                        <div>
+                                            <h4>Summary</h4>
+                                            <p>{{_dash.information.summary}}</p>
+                                            <md-divider></md-divider>
+                                            <h4>Objective / Goal</h4>
+                                            <p>{{_dash.information.objective}}</p>
+                                            <md-divider></md-divider>
+                                            <h4>Resources</h4>
+                                            <p>{{_dash.information.resources}}</p>
+                                        </div>
+                                        <div>
+
+                                        </div>
+                                    </div>
+                                    <div ng-switch-when="pentests">
+                                            <div ng-switch="_dash.has_reports">
+                                                <div ng-switch-when="true">
+                                                    <table class="pentest">
+                                                        <thead>
+                                                        <tr>
+                                                            <th>Report Date</th>
+                                                            <th>Issue name</th>
+                                                            <th>Issue status</th>
+                                                            <th>Issue Resolution</th>
+                                                        </tr>
+                                                        </thead>
+                                                        <tbody>
+                                                        <tr ng-repeat="item in _dash.pentest_items" ng-class="item[3] !== 'h' ? 'resolved':'notResolved'">
+                                                            <td>{{item[0]}}</td>
+                                                            <td>{{item[4]}}</td>
+                                                            <td>{{item[3] | uppercase}}</td>
+                                                            <td>{{item[7]}}</td>
+                                                        </tr>
+                                                        </tbody>
+                                                    </table>
+                                                </div>
+                                                <div ng-switch-when="false" layout-padding>
+                                                    <h4>Woops</h4>
+                                                </div>
+                                            </div>
+
+                                    </div>
+                                    <div ng-switch-when="progress">
+                                        <div layout="row" flex layout-fill>
+                                            <div flex="50">
+                                                <md-list class="md-dense">
+                                                    <md-list-item class="md-3-line" ng-repeat="comment in _dash.comments">
+                                                        <!--<img ng-src="{{comment.face}}?{{$index}}" class="md-avatar" alt="{{item.who}}" />-->
+                                                        <div class="md-list-item-text" layout="column">
+                                                            <h3>Lawrence</h3>
+                                                            <h4>20-05-2017</h4>
+                                                            <p>{{comment.body}}</p>
+                                                        </div>
+                                                    </md-list-item>
+                                                </md-list>
+                                            </div>
+                                            <div flex="50" layout-fill>
+                                                <md-card layout-fill>
+                                                    <md-card-title>
+                                                        <md-card-title-text>
+                                                            <span class="md-headline">Jira Data</span>
+                                                        </md-card-title-text>
+                                                    </md-card-title>
+                                                    <md-card-content>
+                                                        <p>{{_dash.jira_data.fields.summary}}</p>
+                                                        <div layout="row" flex>
+                                                            <div flex><p>Jira ID</p></div>
+                                                            <div flex><p>{{_dash.jira_data.id}} | {{_dash.jira_data.key}}</p></div>
+                                                        </div>
+                                                        <md-divider></md-divider>
+                                                        <div layout="row" flex>
+                                                            <div flex><p>Progress</p></div>
+                                                            <div flex><p>{{_dash.jira_data.fields.progress.progress}}%</p></div>
+                                                        </div>
+                                                        <md-divider></md-divider>
+                                                        <div layout="row" flex>
+                                                            <div flex><p>Risk Classification</p></div>
+                                                            <div flex><p>{{_dash.jira_data.fields.customfield_13919.value}} - {{_dash.jira_data.fields.customfield_13919.child.value}}</p></div>
+                                                        </div>
+                                                    </md-card-content>
+                                                </md-card>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </md-content>
+                            </div>
+                    </div>
+                </div>
+            </div>
+        </md-content>
+ </div>
+

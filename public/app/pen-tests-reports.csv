@@ -1,0 +1,79 @@
+Report Date;Channel;Country;Risk level;Risk Name;Environment;Risk Component ;Status;Date Closed;Architecture;OWASP;Risk Category;Report Provider
+07/04/2015;web;nigeria;c;Transport Layer Protection: Weak SSL Cipher Detected;uat;infrastructure;closed;;tls;;Transport Layer Protection: Weak SSL Cipher Detected;HP
+07/04/2015;web;nigeria;h;Cross-Frame Scripting ;uat;web;closed;;server;TRUE;Cross-Frame Scripting ;HP
+07/04/2015;web;nigeria;h;Server Misconfiguration: HTTP Basic Authentication ;uat;infrastructure;closed;;server;;Server Misconfiguration: HTTP Basic Authentication ;HP
+07/04/2015;web;nigeria;h;Transport Layer Protection: Weak SSL Protocol Detected;uat;infrastructure;closed;;server;;Transport Layer Protection: Weak SSL Protocol Detected;HP
+07/04/2015;web;nigeria;m;Poor Error Handling: Unhandled Exception ;uat;mca;closed;;services;;Poor Error Handling: Unhandled Exception ;HP
+07/04/2015;web;nigeria;m;Privacy Violation: Inconsistent Feedback ;uat;feb;closed;;services;;Privacy Violation: Inconsistent Feedback ;HP
+07/04/2015;web;nigeria;m;Server Misconfiguration: SSL Certificate Hostname ;uat;infrastructure;closed;;server;;Server Misconfiguration: SSL Certificate Hostname ;HP
+07/04/2015;web;nigeria;l;Access Control: Information Disclosure;uat;infrastructure;open;;server;;Access Control: Information Disclosure ;HP
+07/04/2015;web;nigeria;l;Access Control: Unprotected Directory ;uat;infrastructure;open;;server;;Access Control: Unprotected Directory;HP
+07/04/2015;web;nigeria;l;HTML5: Form Validation Turned Off;uat;web;closed;;application;;HTML5: Form Validation Turned Off ;HP
+07/04/2015;web;nigeria;l;Insecure SSL : Misconfigured Http Strict Transport;uat;infrastructure;open;;server;;Insecure SSL : Misconfigured Http Strict Transport ;HP
+07/04/2015;web;nigeria;l;Poor Error Handling: Server Error Message ;uat;mca;closed;;services;;Poor Error Handling: Server Error Message ;HP
+07/04/2015;web;nigeria;l;Server Misconfiguration: Cache Policy ;uat;infrastructure;open;;server;;Server Misconfiguration: Cache Policy ;HP
+07/04/2015;web;nigeria;l;Server Misconfiguration: Response Headers;uat;infrastructure;open;;server;;Server Misconfiguration: Response Headers ;HP
+07/04/2015;web;nigeria;l;Session Hijacking ;uat;mca;open;;services;;Session Hijacking ;HP
+07/04/2015;web;nigeria;l;Session Management: Concurrent Sessions ;uat;mca;open;;services;;Session Management: Concurrent Sessions ;HP
+07/04/2015;web;nigeria;l;System Information Leak: External ;uat;infrastructure;open;;server;;System Information Leak: External ;HP
+07/04/2015;web;nigeria;b;Insecure SSL: Missing Perfect Forward ;uat;infrastructure;open;;server;;Insecure SSL: Missing Perfect Forward Secrecy ;HP
+27/08/2015;web;nigeria;m;Often Misused: Weak SSL Certificate ;uat;infrastructure;open;;server;;Often Misused: Weak SSL Certificate ;HP
+27/08/2015;web;nigeria;m;Server Misconfiguration: SSL Certificate Hostname ;uat;infrastructure;open;;server;TRUE;Server Misconfiguration: SSL Certificate Hostname ;HP
+27/08/2015;web;nigeria;m;Transport Layer Protection: Insecure Transmission ;uat;infrastructure;open;;server;TRUE;Transport Layer Protection: Insecure Transmission ;HP
+27/08/2015;web;nigeria;l;Access Control: Unprotected Directory ;uat;infrastructure;open;;server;;Access Control: Unprotected Directory ;HP
+27/08/2015;web;nigeria;l;Insecure SSL: Misconfigured Http Strict Transport ;uat;infrastructure;open;;server;;Insecure SSL: Misconfigured Http Strict Transport ;HP
+27/08/2015;web;nigeria;l;Poor Error Handling: Server Error Message ;uat;mca;closed;;services;;Poor Error Handling: Server Error Message ;HP
+27/08/2015;web;nigeria;l;Server Misconfiguration: Cache Policy ;uat;infrastructure;open;;server;;Server Misconfiguration: Cache Policy ;HP
+27/08/2015;web;nigeria;l;Server Misconfiguration: Response Headers;uat;infrastructure;open;;server;;Server Misconfiguration: Response Headers ;HP
+27/08/2015;web;nigeria;l;Session Hijacking ;uat;mca;open;;services;;Session Hijacking ;HP
+27/08/2015;web;nigeria;l;Session Management: Concurrent Sessions ;uat;mca;open;;services;;Session Management: Concurrent Sessions ;HP
+27/08/2015;web;nigeria;l;System Information Leak: External ;uat;infrastructure;open;;server;;System Information Leak: External ;HP
+27/08/2015;web;nigeria;b;Insecure SSL: Missing Perfect Forward ;uat;infrastructure;open;;server;;Insecure SSL: Missing Perfect Forward Secrecy ;HP
+27/08/2015;web;nigeria;l;System Information Leak: Internal IP ;uat;infrastructure;open;;server;;System Information Leak: Internal IP ;HP
+19/05/2016;services;ghana;h;Insufficient Authentication ;uat;mca;open;;services;;Insufficient Authentication ;Internal
+19/05/2016;services;ghana;h;Username enumeration ;uat;mca;open;;services;;Username enumeration ;internal
+19/05/2016;services;ghana;h;OTP brute force vulnerability ;uat;feb;open;;services;;OTP brute force vulnerability ;internal
+19/05/2016;services;ghana;m;SSL Certificate Signed Using Weak Hashing Algorithm ;uat;infrastructure;open;;server;;Transport Layer Protection: Weak SSL Cipher Detected;internal
+19/05/2016;services;ghana;m;SSL RC4 Cipher Suites Supported (Bar Mitzvah) ;uat;infrastructure;open;;server;;Insecure SSL : Misconfigured Http Strict Transport ;internal
+19/05/2016;services;ghana;m;Apache Server ETag Header Information Disclosure ;uat;infrastructure;closed;;server;;Server Misconfiguration: Response Headers ;internal
+19/05/2016;services;ghana;m;SSL Certificate Cannot Be Trusted ;uat;infrastructure;open;;server;;Insecure SSL : Misconfigured Http Strict Transport ;internal
+19/05/2016;services;ghana;m;XML injection ;uat;mca;open;;services;;XML injection ;internal
+19/05/2016;services;ghana;l;SSL certificate ;uat;infrastructure;open;;server;;Server Misconfiguration: SSL Certificate Hostname ;internal
+19/05/2016;services;ghana;l;Strict transport security not enforced ;uat;infrastructure;open;;server;;Transport Layer Protection: Insecure Transmission ;internal
+19/05/2016;services;ghana;l;Cacheable HTTPS response ;uat;infrastructure;open;;server;;Server Misconfiguration: Cache Policy ;internal
+05/09/2016;web;ghana;c;Insecure Transport: Weak SSL Cipher ;uat;infrastructure;open;;server;;Transport Layer Protection: Weak SSL Cipher Detected;HP
+05/09/2016;web;ghana;h;Insecure Transport: Weak SSL Protocol ;uat;infrastructure;open;;server;;Transport Layer Protection: Weak SSL Protocol Detected;HP
+05/09/2016;web;ghana;m;Poor Error Handling: Unhandled Exception ;uat;mca;open;;services;;Poor Error Handling: Unhandled Exception ;HP
+05/09/2016;web;ghana;m;Privacy Violation: Inconsistent Feedback ;uat;feb;open;;services;;privacy Violation: Inconsistent Feedback ;HP
+05/09/2016;web;ghana;m;Web Server Misconfiguration: SSL Certificate Hostname Discrepancy;uat;infrastructure;open;;server;;Server Misconfiguration: SSL Certificate Hostname ;HP
+05/09/2016;web;ghana;l;Cache Management: Insecure Policy ;uat;infrastructure;open;;server;;Server Misconfiguration: Cache Policy ;HP
+05/09/2016;web;ghana;l;Poor Error Handling: Server Error Message ;uat;infrastructure;open;;server;;Poor Error Handling: Server Error Message ;HP
+05/09/2016;web;ghana;l;Session Management: Concurrent Sessions ;uat;mca;open;;services;;Session Management: Concurrent Sessions ;HP
+05/09/2016;web;ghana;l;System Information Leak: External ;uat;infrastructure;open;;server;;System Information Leak: External ;HP
+05/09/2016;web;ghana;l;Web Server Misconfiguration: Unprotected Directory ;uat;infrastructure;open;;server;;Access Control: Unprotected Directory;HP
+27/06/2016;web;uganda;h;Password stored in Javascript ;uat;web;closed;;server;;Password stored in Javascript ;MWR
+27/06/2016;web;uganda;m;Account Lockout Denial of Service ;uat;feb;open;;services;;Account Lockout Denial of Service ;MWR
+27/06/2016;web;uganda;m;Possible CSV Injection ;uat;web;open;;application;;Possible CSV Injection ;MWR
+27/06/2016;web;uganda;m;Possible Sensitive Information Disclosure ;uat;feb;open;;services;;privacy Violation: Inconsistent Feedback ;MWR
+27/06/2016;web;uganda;m;Sensitive Information Enumeration ;uat;feb;open;;services;;Username Enumeration ;MWR
+27/06/2016;web;uganda;l;Banner Disclosure ;uat;infrastructure;open;;server;;Access Control: Information Disclosure ;MWR
+27/06/2016;web;uganda;l;Closed Ports Exposed ;uat;infrastructure;open;;tcp;;Closed Ports Exposed ;MWR
+27/06/2016;web;uganda;l;Concurrent Sessions ;uat;feb;open;;services;;Session Management: Concurrent Sessions ;MWR
+27/06/2016;web;uganda;l;Insufficient Password Policy ;uat;web;open;;services;;Insufficient Password Policy ;MWR
+27/06/2016;web;uganda;l;Internal IP disclosed ;uat;infrastructure;open;;server;;System Information Leak: Internal IP ;MWR
+27/06/2016;web;uganda;l;Robots.txt file present ;uat;infrastructure;open;;server;;System Information Leak: External ;MWR
+27/06/2016;web;uganda;l;Verbose Error Messages ;uat;mca;open;;services;;Verbose Error Messages ;MWR
+06/12/2016;web;cloud;h;Bruteforceable One Time Pins ;uat;feb;open;;services;;Bruteforceable One Time Pins ;MWR
+06/12/2016;web;cloud;h;Unauthorised Account Registration ;uat;feb;open;;services;;Unauthorised Account Registration ;MWR
+06/12/2016;web;cloud;m;Sensitive Information Enumeration ;uat;feb;open;;services;;Username Enumeration ;MWR
+06/12/2016;web;cloud;m;UAT Environment Exposed to the Internet ;uat;infrastructure;open;;tcp;;UAT Environment Exposed to the Internet ;MWR
+06/12/2016;web;cloud;m;Insufficient Password Policy ;uat;web;open;;services;;Insufficient Password Policy ;MWR
+06/12/2016;web;cloud;m;Weak Security Questions ;uat;feb;open;;services;;Weak Security Questions ;MWR
+06/12/2016;web;cloud;l;Credentials Stored in Cleartext in Browser ;uat;feb;open;;services;;Credentials Stored in Cleartext in Browser ;MWR
+06/12/2016;web;cloud;l;Informative Header Information ;uat;infrastructure;open;;server;;Server Misconfiguration: Response Headers ;MWR
+06/12/2016;web;cloud;l;Insecure SSL Configuration ;uat;infrastructure;open;;server;;Insecure SSL : Misconfigured Http Strict Transport ;MWR
+06/12/2016;web;cloud;l;Internal Hostname Disclosed in Header ;uat;infrastructure;open;;server;;Server Misconfiguration: Response Headers ;MWR
+06/12/2016;web;cloud;l;Logout Does not End Session on Server ;uat;mca;open;;services;;Session Hijacking ;MWR
+06/12/2016;web;cloud;l;Multiple Concurrent Sessions ;uat;mca;open;;services;;Session Management: Concurrent Sessions ;MWR
+06/12/2016;web;cloud;l;No Content Secure Policy Defined ;uat;infrastructure;open;;server;;No Content Secure Policy Defined ;MWR
+06/12/2016;web;cloud;l;Verbose Error Messages ;uat;mca;open;;services;;Verbose Error Messages ;MWR
