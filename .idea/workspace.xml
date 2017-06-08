@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="046eac16-57b4-4dde-afd2-feaeac8f5479" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/app.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/components/jiradata.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/country_data/botswana.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/country_data/country_template.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/country_data/ghana.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/country_data/lesotho.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/country_data/malawai.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/country_data/namibia.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/country_data/nigeria.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/country_data/swaziland.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/country_data/uganda.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/country_data/zimbabwe.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/dashboard/dashboard.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/dashboard/dashboard.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/pen-tests-reports.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/public/app/africa.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/public/app/app.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/public/app/components/appController.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/public/app/components/map/map-directive.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/public/app/components/securityComponents.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/public/app/components/topojson.v1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/public/app/dashboard/view1_test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/public/app/images/flag-nigeria-S.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/public/app/index-async.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/public/app/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/public/app/makefile.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/public/app/network_demo.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/public/app/network_demo_small.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/public/app/svg/Ghana_web.svg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/npm-debug.log" afterPath="$PROJECT_DIR$/server/npm-debug.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/routes/jira.js" afterPath="$PROJECT_DIR$/server/routes/jira.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -56,7 +26,7 @@
             <entry file="file://$PROJECT_DIR$/app.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="390">
-                  <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+                  <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -66,7 +36,7 @@
             <entry file="file://$PROJECT_DIR$/public/package.json">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="510">
-                  <caret line="34" column="3" lean-forward="true" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+                  <caret line="34" column="3" lean-forward="false" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
                   <folding />
                 </state>
               </provider>
@@ -82,22 +52,24 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="bower.json" pinned="false" current-in-tab="false">
+          <file leaf-file-name="bower.json" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/public/bower.json">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="240">
-                  <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+                  <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+          <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/package.json">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="270">
-                  <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-                  <folding />
+                  <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+                  <folding>
+                    <marker date="1496924205000" expanded="true" signature="82:163" ph="{&quot;start&quot;: &quot;node ./bin/www&quot;...}" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -293,6 +265,7 @@
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/public/package.json" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/public/bower.json" />
       </list>
     </option>
   </component>
@@ -357,6 +330,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SecDashboard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SecDashboard" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -891,7 +882,7 @@
       <workItem from="1495728892682" duration="426000" />
       <workItem from="1496047376180" duration="211000" />
       <workItem from="1496383903349" duration="4676000" />
-      <workItem from="1496908202250" duration="2902000" />
+      <workItem from="1496908202250" duration="3318000" />
     </task>
     <task id="LOCAL-00001" summary="Added Jira Support. Added Node Server as the middle man.">
       <created>1495099224183</created>
@@ -911,7 +902,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="184654000" />
+    <option name="totallyTimeSpent" value="185070000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="31" y="23" width="1649" height="979" extended-state="0" />
@@ -924,7 +915,7 @@
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24954791" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22183508" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4367015" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1319,7 +1310,7 @@
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1327,8 +1318,18 @@
     <entry file="file://$PROJECT_DIR$/public/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
-          <caret line="34" column="3" lean-forward="true" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+          <caret line="34" column="3" lean-forward="false" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <marker date="1496924205000" expanded="true" signature="82:163" ph="{&quot;start&quot;: &quot;node ./bin/www&quot;...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1343,15 +1344,7 @@
     <entry file="file://$PROJECT_DIR$/public/bower.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
